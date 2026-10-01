@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **714 are live right now.** This list shows the newest 112 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **719 are live right now.** This list shows the newest 115 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 714, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 719, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Internships from employers' own career pages. **714 are live right now.** This l
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[stripe](https://stripe.com)** | **[Data Analyst, Intern](https://interviewchamp.ai/jobs/stripe-data-analyst-intern-8194291?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, Seattle, South San Francisco HQ | On-site |  | Oct 1 |
+| **[stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://interviewchamp.ai/jobs/stripe-phd-data-scientist-intern-8194283?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, Seattle, South San Francisco HQ | On-site |  | Oct 1 |
+| **[Rubrik Job Board](https://www.rubrik.com)** | **[Product Growth Intern (MBA), Summer 2027](https://interviewchamp.ai/jobs/rubrik-product-growth-intern-mba-summer-2027-8224424?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto, CA | On-site |  | Oct 1 |
+| **[PrizePicks](https://prizepicks.com)** | **[Data & Machine Learning Platform Engineering Internship - Spring 2027](https://interviewchamp.ai/jobs/prizepicks-data-machine-learning-platform-engineering-internship-spring-2027-8009261003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Oct 1 |
+| **[PrizePicks](https://prizepicks.com)** | **[Data Engineering Internship - Spring 2027](https://interviewchamp.ai/jobs/prizepicks-data-engineering-internship-spring-2027-8009358003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Oct 1 |
 | **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote (Remote) | Remote |  | Oct 1 |
 | **[Varda Space Industries](https://varda.com)** | **[Avionics Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-avionics-engineering-internship-summer-2027-8010158003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
 | **[Varda Space Industries](https://varda.com)** | **[Cybersecurity Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-cybersecurity-internship-summer-2027-8005821003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
@@ -65,7 +70,6 @@ Internships from employers' own career pages. **714 are live right now.** This l
 | **[DN LLC](https://jobs.lever.co/dnllc)** | **[Construction Management Intern](https://interviewchamp.ai/jobs/dnllc-construction-management-intern-1654e29e-715f-4bcc-be59-05357654cd14?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Cajon, CA | On-site |  | Sep 30 |
 | **[DN LLC](https://jobs.lever.co/dnllc)** | **[Preconstruction Estimating Intern](https://interviewchamp.ai/jobs/dnllc-preconstruction-estimating-intern-8e4f5662-389f-44e2-8e19-18a1b620277a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Cajon, CA | On-site |  | Sep 30 |
 | **[PrizePicks](https://prizepicks.com)** | **[Product Analytics Internship - Spring 2027](https://interviewchamp.ai/jobs/prizepicks-product-analytics-internship-spring-2027-8008103003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Sep 30 |
-| **[PrizePicks](https://prizepicks.com)** | **[Fraud Analytics Internship - Spring 2027](https://interviewchamp.ai/jobs/prizepicks-fraud-analytics-internship-spring-2027-8008655003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Sep 30 |
 | **[Blue Sky Innovators](https://job-boards.greenhouse.io/blueskyinnovators)** | **[Intern, Secret Clearance Eligible](https://interviewchamp.ai/jobs/blueskyinnovators-intern-secret-clearance-eligible-5439621008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Reston, VA | On-site |  | Sep 30 |
 | **[Bureau of Prisons/Federal Prison System](https://www.usajobs.gov)** | **[Religious Services Student Trainee (Chaplain Intern)](https://interviewchamp.ai/jobs/bureau-of-prisons-federal-prison-system-usajobs-religious-services-student-trainee-chaplain-intern-886915400?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Springfield, Missouri | On-site | $57,188–$72,328 | Sep 30 |
 | **[Graphcore](https://job-boards.greenhouse.io/graphcore)** | **[Knowledge Management and Training Project Intern](https://interviewchamp.ai/jobs/graphcore-knowledge-management-and-training-project-intern-8857642002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas, United States | On-site |  | Sep 30 |
@@ -143,8 +147,7 @@ Internships from employers' own career pages. **714 are live right now.** This l
 | **[Mariner](https://jobs.ashbyhq.com/mariner-careers)** | **[Intern, Tax - Scottsdale, AZ](https://interviewchamp.ai/jobs/mariner-careers-intern-tax-scottsdale-az-5cccffd5-80e0-4fa5-8bfc-9298b682fa8e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Scottsdale, AZ | On-site |  | Sep 24 |
 | **[Bureau of Prisons/Federal Prison System](https://www.usajobs.gov)** | **[Clinical Psychologist (Internship Program Coordinator)](https://interviewchamp.ai/jobs/bureau-of-prisons-federal-prison-system-usajobs-clinical-psychologist-internship-program-coordinator-886255500?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Fort Worth, Texas | On-site | $115,711–$150,426 | Sep 24 |
 | **[Olsson](https://job-boards.greenhouse.io/olsson)** | **[Accounting Student Internship](https://interviewchamp.ai/jobs/olsson-accounting-student-internship-5434137008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Omaha, NE | On-site |  | Sep 24 |
-| **[Field Fastener](https://jobs.lever.co/fieldfastener)** | **[Quality Internship](https://interviewchamp.ai/jobs/fieldfastener-quality-internship-7b499502-b746-43b7-9547-2e85f7797057?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Machesney Park, IL | On-site |  | Sep 24 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-01 12:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-01 15:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
