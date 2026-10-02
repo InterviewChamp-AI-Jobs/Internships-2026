@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **742 are live right now.** This list shows the newest 114 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **744 are live right now.** This list shows the newest 116 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 742, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 744, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **742 are live right now.** This l
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Profluent](https://job-boards.greenhouse.io/profluent)** | **[Intern, Software Engineering](https://interviewchamp.ai/jobs/profluent-intern-software-engineering-5441955008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Emeryville, California, United States | On-site |  | Oct 2 |
+| **[Profluent](https://job-boards.greenhouse.io/profluent)** | **[Intern, Computational Research](https://interviewchamp.ai/jobs/profluent-intern-computational-research-5441954008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Emeryville, California, United States; Hybrid (2-3 days on-site) | Hybrid |  | Oct 2 |
 | **[ARCO National Holdings](https://job-boards.greenhouse.io/anc)** | **[Project Manager Co-op (Spring/Summer 2027)](https://interviewchamp.ai/jobs/anc-project-manager-co-op-spring-summer-2027-4430579009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Richmond Heights, MO, US | On-site |  | Oct 2 |
 | **[RoboForce](https://job-boards.greenhouse.io/roboforce)** | **[Robotics Mechanical Engineering Intern (Fall/Winter 2026)](https://interviewchamp.ai/jobs/roboforce-robotics-mechanical-engineering-intern-fall-winter-2026-5441463008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Milpitas, CA | On-site |  | Oct 2 |
 | **[Muon Space](https://muonspace.com)** | **[Electrical Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-electrical-engineering-intern-summer-2027-5255112007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Oct 2 |
@@ -149,4 +151,4 @@ Internships from employers' own career pages. **742 are live right now.** This l
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-02 03:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 06:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
