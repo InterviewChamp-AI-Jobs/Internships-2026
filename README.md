@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **747 are live right now.** This list shows the newest 119 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **746 are live right now.** This list shows the newest 115 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 747, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 746, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -147,11 +147,7 @@ Internships from employers' own career pages. **747 are live right now.** This l
 | **[Current](https://jobs.ashbyhq.com/current-advisors)** | **[IT Systems Intern](https://interviewchamp.ai/jobs/current-advisors-it-systems-intern-783696c6-a109-4112-a65d-ec887bafadcb?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Tampa, FL | On-site |  | Sep 25 |
 | **[Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech)** | **[Embedded Systems Software Engineering Intern at UIUC Research Park (January- August 2027)](https://interviewchamp.ai/jobs/rivianvw-tech-embedded-systems-software-engineering-intern-at-uiuc-research-park-january-august-2027-f421a524-72da-4dd6-a549-bbee9e98622e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Champaign, Illinois (Remote) | Remote |  | Sep 25 |
 | **[GCM Grosvenor](https://job-boards.greenhouse.io/gcmgrosvenor)** | **[2027 Fund Data Reporting and Analytics Summer Intern](https://interviewchamp.ai/jobs/gcmgrosvenor-2027-fund-data-reporting-and-analytics-summer-intern-8003490003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, Illinois, United States | On-site | $65k–$70k | Sep 25 |
-| **[Veeam Software](https://veeam.com)** | **[Project Management Intern- Summer 2027](https://interviewchamp.ai/jobs/veeamsoftware-project-management-intern-summer-2027-4987731101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Alpharetta, GA, USA | On-site |  | Sep 25 |
-| **[Veeam Software](https://veeam.com)** | **[Professional Services Intern- Summer 2027](https://interviewchamp.ai/jobs/veeamsoftware-professional-services-intern-summer-2027-4987734101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Alpharetta, GA, USA | On-site |  | Sep 25 |
-| **[Ginkgo Bioworks Inc.](https://ginkgobioworks.com)** | **[Automation Scientist Graduate Intern, RAC Operations](https://interviewchamp.ai/jobs/ginkgobioworks-automation-scientist-graduate-intern-rac-operations-5249264007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts | On-site | $37.7k–$53.5k | Sep 25 |
-| **[Meshy](https://meshy.ai)** | **[GTM Intern](https://interviewchamp.ai/jobs/meshy-gtm-intern-0bb445e0-8359-4e94-b7cb-3df40a44d256?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Bay Area Office (Remote) | Remote |  | Sep 25 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-02 12:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 15:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
