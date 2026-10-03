@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,044 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,045 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,044, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,045, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,044 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Brooks Running](https://jobs.lever.co/brooksrunning)** | **[Run Perception Graduate Internship, R&D - Winter 2027](https://interviewchamp.ai/jobs/brooksrunning-run-perception-graduate-internship-r-d-winter-2027-af8e5a0b-0383-486d-9096-d029a6a83a48?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US, Washington, Seattle | On-site |  | Oct 3 |
 | **[Muon Space](https://muonspace.com)** | **[Environmental Test Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-environmental-test-engineering-intern-summer-2027-5256286007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 3 |
 | **[Muon Space](https://muonspace.com)** | **[Industrial Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-industrial-engineering-intern-summer-2027-5256284007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 3 |
 | **[Figure](https://job-boards.greenhouse.io/figureai)** | **[Supply Chain Analytics Intern \[Winter 2027\]](https://interviewchamp.ai/jobs/figureai-supply-chain-analytics-intern-winter-2027-4718858006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 2 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,044 are live right now.** This
 | **[JRM Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc)** | **[Construction Management Intern - Summer 2027](https://interviewchamp.ai/jobs/jrmconstructionmanagementllc-construction-management-intern-summer-2027-4702314006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Sep 29 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://interviewchamp.ai/jobs/equipmentsharecom-intern-procure-to-pay-8190876?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Sep 29 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://interviewchamp.ai/jobs/equipmentsharecom-intern-procure-to-pay-8189133?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Sep 29 |
-| **[Re:Build Manufacturing](https://job-boards.greenhouse.io/rebuildmanufacturing)** | **[Project & Construction Co-Op/ Intern](https://interviewchamp.ai/jobs/rebuildmanufacturing-project-construction-co-op-intern-4738702005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Rochester, NY | On-site |  | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-03 00:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 03:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
