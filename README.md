@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,046 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,045 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,046, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,045, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -169,7 +169,6 @@ Internships from employers' own career pages. **1,046 are live right now.** This
 | **[Allegiant Air](https://jobs.lever.co/allegiantair)** | **[Intern, Financial Analyst (Spring 2027)](https://interviewchamp.ai/jobs/allegiantair-intern-financial-analyst-spring-2027-637e4751-89ff-4935-a6a0-e913b7452031?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Las Vegas, NV | On-site |  | Sep 29 |
 | **[Epic Games](https://epicgames.com)** | **[Product Management Intern](https://interviewchamp.ai/jobs/epicgames-product-management-intern-6161289004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cary,North Carolina,United States | On-site |  | Sep 29 |
 | **[Tekton](https://jobs.lever.co/tekton)** | **[Product Development Co-op](https://interviewchamp.ai/jobs/tekton-product-development-co-op-7a106046-00e3-4aee-82bb-affc67183325?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Grand Rapids, MI | On-site |  | Sep 29 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founder Associate Intern](https://interviewchamp.ai/jobs/clera-founder-associate-intern-00356c58-6a95-4d68-8781-99ac116dfe3e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Sep 29 |
 | **[Clay](https://jobs.ashbyhq.com/claylabs)** | **[Software Engineering Intern](https://interviewchamp.ai/jobs/claylabs-software-engineering-intern-5b7eced2-36bd-4265-a2a8-da0f786e47aa?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Sep 29 |
 | **[Nashville Zoo](https://job-boards.greenhouse.io/nashvillezoo)** | **[Animal Care Internship Spring 2027](https://interviewchamp.ai/jobs/nashvillezoo-animal-care-internship-spring-2027-5437820008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Nashville, TN | On-site |  | Sep 29 |
 | **[Nashville Zoo](https://job-boards.greenhouse.io/nashvillezoo)** | **[Education Internship 2027](https://interviewchamp.ai/jobs/nashvillezoo-education-internship-2027-5437790008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Nashville, TN | On-site |  | Sep 29 |
@@ -182,7 +181,8 @@ Internships from employers' own career pages. **1,046 are live right now.** This
 | **[Perchwell](https://jobs.ashbyhq.com/Perchwell)** | **[Software Engineering Intern](https://interviewchamp.ai/jobs/perchwell-software-engineering-intern-194eec78-26db-4d8e-850f-a99ea2733e9f?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York Office | On-site | $12k | Sep 29 |
 | **[JRM Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc)** | **[Construction Management Intern - Summer 2027](https://interviewchamp.ai/jobs/jrmconstructionmanagementllc-construction-management-intern-summer-2027-4715648006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boca Raton, FL | On-site |  | Sep 29 |
 | **[JRM Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc)** | **[Construction Management Intern - Summer 2027](https://interviewchamp.ai/jobs/jrmconstructionmanagementllc-construction-management-intern-summer-2027-4702314006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Sep 29 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://interviewchamp.ai/jobs/equipmentsharecom-intern-procure-to-pay-8190876?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-04 13:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-04 20:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
