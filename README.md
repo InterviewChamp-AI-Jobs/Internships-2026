@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,045 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,046 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,045, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,046, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -120,6 +120,7 @@ Internships from employers' own career pages. **1,045 are live right now.** This
 | **[CannonDesign](http://www.cannondesign.com)** | **[Mechanical Student Intern](https://interviewchamp.ai/jobs/cannondesign-mechanical-student-intern-8859109002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | St. Louis, MO | On-site |  | Oct 1 |
 | **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote (Remote) | Remote |  | Oct 1 |
 | **[Varda Space Industries](https://varda.com)** | **[Avionics Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-avionics-engineering-internship-summer-2027-8010158003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
+| **[Partly](https://jobs.ashbyhq.com/partly.com)** | **[Solutions Engineer Intern, US](https://interviewchamp.ai/jobs/partly-com-solutions-engineer-intern-us-842283ee-99bd-4dc0-bc9e-9a9567487217?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas | On-site |  | Oct 1 |
 | **[Air Force Civilian Career Training](https://www.usajobs.gov)** | **[Engineer (Palace Acquire Intern)](https://interviewchamp.ai/jobs/air-force-civilian-career-training-usajobs-engineer-palace-acquire-intern-887072300?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Maxwell AFB, Alabama; Davis Monthan AFB, Arizona; Edwards AFB, California (+41 more) | On-site | $50,460–$109,678 | Oct 1 |
 | **[Astranis](https://astranis.com)** | **[Radiation Effects Engineer Intern (Winter 2027)](https://interviewchamp.ai/jobs/astranis-radiation-effects-engineer-intern-winter-2027-4704335006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Sep 30 |
 | **[Helion](https://jobs.ashbyhq.com/helion)** | **[Computational Plasma Research Summer 2027 Intern](https://interviewchamp.ai/jobs/helion-computational-plasma-research-summer-2027-intern-d2a1f8af-a310-44af-a5bc-c68816ebb7f6?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Everett, WA | On-site |  | Sep 30 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,045 are live right now.** This
 | **[Perchwell](https://jobs.ashbyhq.com/Perchwell)** | **[Software Engineering Intern](https://interviewchamp.ai/jobs/perchwell-software-engineering-intern-194eec78-26db-4d8e-850f-a99ea2733e9f?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York Office | On-site | $12k | Sep 29 |
 | **[JRM Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc)** | **[Construction Management Intern - Summer 2027](https://interviewchamp.ai/jobs/jrmconstructionmanagementllc-construction-management-intern-summer-2027-4715648006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boca Raton, FL | On-site |  | Sep 29 |
 | **[JRM Construction Management](https://job-boards.greenhouse.io/jrmconstructionmanagementllc)** | **[Construction Management Intern - Summer 2027](https://interviewchamp.ai/jobs/jrmconstructionmanagementllc-construction-management-intern-summer-2027-4702314006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Sep 29 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Procure to Pay](https://interviewchamp.ai/jobs/equipmentsharecom-intern-procure-to-pay-8190876?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-05 00:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 03:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
