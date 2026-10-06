@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,086 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,088 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,086, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,088, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **1,086 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Dryft](https://jobs.ashbyhq.com/dryft)** | **[Full-Stack Engineering Intern](https://interviewchamp.ai/jobs/dryft-full-stack-engineering-intern-d4c7d1cd-a4e3-440e-ad53-4dab3391d883?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, US | On-site |  | Oct 6 |
+| **[Panthalassa](https://job-boards.greenhouse.io/panthalassa)** | **[Summer 2027 Engineering Internship](https://interviewchamp.ai/jobs/panthalassa-summer-2027-engineering-internship-6217929004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Portland, OR | On-site |  | Oct 6 |
 | **[Field AI](https://jobs.lever.co/field-ai)** | **[Mechanical Engineer Internship, Robotics Hardware](https://interviewchamp.ai/jobs/field-ai-mechanical-engineer-internship-robotics-hardware-5ae428f8-ac13-49b2-a244-fb97d31bfc79?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA | On-site |  | Oct 6 |
 | **[Dryft](https://jobs.ashbyhq.com/dryft)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/dryft-founders-associate-intern-60c6f0b3-059a-435f-841b-a3944bc722fd?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, US | On-site |  | Oct 6 |
 | **[Arc Boat Company](https://job-boards.greenhouse.io/arcboatcompany)** | **[Supply Chain Intern](https://interviewchamp.ai/jobs/arcboatcompany-supply-chain-intern-5443994008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 6 |
@@ -180,9 +182,7 @@ Internships from employers' own career pages. **1,086 are live right now.** This
 | **[Amperesand](https://job-boards.greenhouse.io/amperesand)** | **[Power Electronics Design Intern](https://interviewchamp.ai/jobs/amperesand-power-electronics-design-intern-4425221009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, California, United States | On-site |  | Sep 29 |
 | **[Benesch](https://www.benesch.com)** | **[Transportation Engineering Internship](https://interviewchamp.ai/jobs/alfredbeneschco-transportation-engineering-internship-5228456007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Glastonbury, CT | On-site |  | Sep 29 |
 | **[CannonDesign](http://www.cannondesign.com)** | **[Structural Student Intern](https://interviewchamp.ai/jobs/cannondesign-structural-student-intern-8856616002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Buffalo, NY | On-site |  | Sep 29 |
-| **[National Life Insurance Company](https://job-boards.greenhouse.io/nationallifeinsurancecompany)** | **[Operations Intern – Summer 2027](https://interviewchamp.ai/jobs/nationallifeinsurancecompany-operations-intern-summer-2027-4424810009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Addison, TX; Montpelier, VT | On-site |  | Sep 29 |
-| **[Nuro](https://nuro.ai)** | **[Social Media Intern](https://interviewchamp.ai/jobs/nuro-social-media-intern-8222063?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, California (HQ) | On-site |  | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-06 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-06 06:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
