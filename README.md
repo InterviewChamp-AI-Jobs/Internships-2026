@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,132 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,137 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,132, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,137, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Internships from employers' own career pages. **1,132 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[AI SW Intern, Cloud, Infrastructure & Data Centre Deployment](https://interviewchamp.ai/jobs/tenstorrentuniversity-ai-sw-intern-cloud-infrastructure-data-centre-deployment-5256686007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas, United States; Santa Clara, California, United States | On-site |  | Oct 7 |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[Hardware Intern - Architecture, AI HW & System on a Chip](https://interviewchamp.ai/jobs/tenstorrentuniversity-hardware-intern-architecture-ai-hw-system-on-a-chip-5256691007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | On-site |  | Oct 7 |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[Intern, Physical Design & DFT](https://interviewchamp.ai/jobs/tenstorrentuniversity-intern-physical-design-dft-5256706007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | On-site |  | Oct 7 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Research, Perception Foundation Models](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-research-perception-foundation-models-8257801?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 7 |
 | **[Sigma Computing](https://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-ai-ml-phd-intern-summer-2027-8015269003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 7 |
 | **[Sigma Computing](https://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-ai-ml-phd-intern-summer-2027-7861424003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 6 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **1,132 are live right now.** This
 | **[Hermeus](https://hermeus.com)** | **[Loads & Dynamics Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/hermeus-loads-dynamics-engineering-intern-summer-2027-29c10a11-aa02-4d64-83d0-00001cbd3ac0?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles, CA | On-site |  | Sep 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://interviewchamp.ai/jobs/epicgames-technical-product-management-intern-6178818004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cary,North Carolina,United States | On-site |  | Sep 30 |
 | **[Secretariat](https://job-boards.greenhouse.io/secretariatadvisorsllc)** | **[Intern, Construction Delay](https://interviewchamp.ai/jobs/secretariatadvisorsllc-intern-construction-delay-4419997009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts, United States | On-site |  | Sep 30 |
-| **[AEG Worldwide](https://aegworldwide.com)** | **[CMN Internship (Touring)](https://interviewchamp.ai/jobs/aegworldwide-cmn-internship-touring-8858718002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, IL | On-site |  | Sep 30 |
-| **[Helion](https://jobs.ashbyhq.com/helion)** | **[Mechanical Engineering Summer 2027 Intern](https://interviewchamp.ai/jobs/helion-mechanical-engineering-summer-2027-intern-b73602bd-b644-4a46-9188-fded4b2db606?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Everett, WA | On-site |  | Sep 30 |
-| **[RF-SMART](https://job-boards.greenhouse.io/rfsmart)** | **[Supply Chain Analyst Internship- Summer 2027](https://interviewchamp.ai/jobs/rfsmart-supply-chain-analyst-internship-summer-2027-5437729008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Highlands Ranch, Colorado, United States | On-site |  | Sep 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-07 06:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 09:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
