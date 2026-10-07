@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,131 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,132 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,131, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,132, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,131 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Research, Perception Foundation Models](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-research-perception-foundation-models-8257801?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 7 |
 | **[Sigma Computing](https://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-ai-ml-phd-intern-summer-2027-8015269003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 7 |
 | **[Sigma Computing](https://sigmacomputing.com)** | **[AI/ML PhD Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-ai-ml-phd-intern-summer-2027-7861424003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 6 |
 | **[Figure](https://job-boards.greenhouse.io/figureai)** | **[Security Engineer Intern \[Winter 2027\]](https://interviewchamp.ai/jobs/figureai-security-engineer-intern-winter-2027-4719593006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 6 |
@@ -50,7 +51,6 @@ Internships from employers' own career pages. **1,131 are live right now.** This
 | **[Lyft](https://lyft.com)** | **[PhD Machine Learning Software Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/lyft-phd-machine-learning-software-engineer-intern-summer-2027-8817974002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 6 |
 | **[KnowBe4](https://knowbe4.com)** | **[Demand Generation Intern (Hybrid)](https://interviewchamp.ai/jobs/knowbe4-demand-generation-intern-hybrid-8871781002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Arlington, Virginia | On-site |  | Oct 6 |
 | **[KnowBe4](https://knowbe4.com)** | **[Associate Product Manager Intern (Hybrid)](https://interviewchamp.ai/jobs/knowbe4-associate-product-manager-intern-hybrid-8871835002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Clearwater, Florida | On-site |  | Oct 6 |
-| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, BS, Waymo ML Ops & Automation](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-bs-waymo-ml-ops-automation-8257237?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 6 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-programs-outreach-intern-foundation-for-economic-education-b46a3ae5-18a1-40e3-ba75-a97fb42bf3dd?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Georgia (Remote) | Remote | $5.5k–$7.5k | Oct 6 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-north-america-programs-intern-foundation-for-economic-education-181f25c2-aafc-43de-8f8e-242987eef1c6?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, DC | On-site | $5.5k–$7.5k | Oct 6 |
 | **[SK hynix memory solutions America Inc.](https://skhynix.com)** | **[Research Intern - Loop Engineering](https://interviewchamp.ai/jobs/skhynixmemorysolutionsamericainc-research-intern-loop-engineering-4435645009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Oct 6 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **1,131 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-07 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 06:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
