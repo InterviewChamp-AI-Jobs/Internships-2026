@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,147 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,148 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,147, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,148, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,147 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Software Engineer, Intern - Labs (Summer 2027)](https://interviewchamp.ai/jobs/doordashusa-software-engineer-intern-labs-summer-2027-8263774?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA; Sunnyvale, CA | On-site | $107.4k–$158k | Oct 8 |
 | **[Gemini](https://boards.greenhouse.io/embed)** | **[Content Production Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-content-production-intern-winter-2027-8247993?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 8 |
 | **[Gemini](https://boards.greenhouse.io/embed)** | **[Product Design Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-product-design-intern-winter-2027-8240208?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 8 |
 | **[Advanced Space](https://advancedspace.com)** | **[2027 Project Management Summer Internship](https://interviewchamp.ai/jobs/advancedspace-2027-project-management-summer-internship-4376384009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Westminster, CO | On-site |  | Oct 8 |
@@ -177,8 +178,7 @@ Internships from employers' own career pages. **1,147 are live right now.** This
 | **[stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://interviewchamp.ai/jobs/stripe-phd-data-scientist-intern-8194283?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, Seattle, South San Francisco HQ | On-site |  | Oct 1 |
 | **[Rubrik Job Board](https://www.rubrik.com)** | **[Product Growth Intern (MBA), Summer 2027](https://interviewchamp.ai/jobs/rubrik-product-growth-intern-mba-summer-2027-8224424?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto, CA | On-site |  | Oct 1 |
 | **[CannonDesign](http://www.cannondesign.com)** | **[Mechanical Student Intern](https://interviewchamp.ai/jobs/cannondesign-mechanical-student-intern-8859109002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | St. Louis, MO | On-site |  | Oct 1 |
-| **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-08 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 09:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
