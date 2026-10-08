@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,144 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,145 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,144, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,145, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,144 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Advanced Space](https://advancedspace.com)** | **[2027 Project Management Summer Internship](https://interviewchamp.ai/jobs/advancedspace-2027-project-management-summer-internship-4376384009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Westminster, CO | On-site |  | Oct 8 |
 | **[Epic Games](https://epicgames.com)** | **[SDET Intern](https://interviewchamp.ai/jobs/epicgames-sdet-intern-6219626004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cary,North Carolina,United States | On-site |  | Oct 8 |
 | **[Leland](https://jobs.ashbyhq.com/leland)** | **[Sales Ops Intern](https://interviewchamp.ai/jobs/leland-sales-ops-intern-a2c2c00d-2b9d-4e5c-bf15-289473ba1191?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Leland HQ - Lehi, UT (Hybrid) (Remote) | Remote |  | Oct 7 |
 | **[IXL Learning](https://ixl.com)** | **[Software Engineer, Intern](https://interviewchamp.ai/jobs/ixllearning-software-engineer-intern-8862214002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, CA | On-site |  | Oct 7 |
@@ -177,8 +178,7 @@ Internships from employers' own career pages. **1,144 are live right now.** This
 | **[CannonDesign](http://www.cannondesign.com)** | **[Mechanical Student Intern](https://interviewchamp.ai/jobs/cannondesign-mechanical-student-intern-8859109002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | St. Louis, MO | On-site |  | Oct 1 |
 | **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 1 |
 | **[Varda Space Industries](https://varda.com)** | **[Avionics Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-avionics-engineering-internship-summer-2027-8010158003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
-| **[Partly](https://jobs.ashbyhq.com/partly.com)** | **[Solutions Engineer Intern, US](https://interviewchamp.ai/jobs/partly-com-solutions-engineer-intern-us-842283ee-99bd-4dc0-bc9e-9a9567487217?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas | On-site |  | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-08 00:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
