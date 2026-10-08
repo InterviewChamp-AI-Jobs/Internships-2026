@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,144 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,144 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
 
 👉 **See all 1,144, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
@@ -32,9 +32,11 @@ Internships from employers' own career pages. **1,144 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Epic Games](https://epicgames.com)** | **[SDET Intern](https://interviewchamp.ai/jobs/epicgames-sdet-intern-6219626004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cary,North Carolina,United States | On-site |  | Oct 8 |
+| **[Leland](https://jobs.ashbyhq.com/leland)** | **[Sales Ops Intern](https://interviewchamp.ai/jobs/leland-sales-ops-intern-a2c2c00d-2b9d-4e5c-bf15-289473ba1191?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Leland HQ - Lehi, UT (Hybrid) (Remote) | Remote |  | Oct 7 |
+| **[IXL Learning](https://ixl.com)** | **[Software Engineer, Intern](https://interviewchamp.ai/jobs/ixllearning-software-engineer-intern-8862214002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, CA | On-site |  | Oct 7 |
 | **[Arc Boat Company](https://job-boards.greenhouse.io/arcboatcompany)** | **[Mechanical Engineering Intern - Recreational](https://interviewchamp.ai/jobs/arcboatcompany-mechanical-engineering-intern-recreational-5445312008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 7 |
 | **[Arc Boat Company](https://job-boards.greenhouse.io/arcboatcompany)** | **[People Operations Intern](https://interviewchamp.ai/jobs/arcboatcompany-people-operations-intern-5447151008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 7 |
-| **[State Affairs](https://job-boards.greenhouse.io/stateaffairs)** | **[Software Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/stateaffairs-software-engineer-intern-summer-2027-4437430009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, DC | On-site |  | Oct 7 |
 | **[Formlabs](https://formlabs.com)** | **[Global Operations Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-global-operations-intern-winter-spring-2027-8263054?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Oct 7 |
 | **[Formlabs](https://formlabs.com)** | **[Sourcing Program Management Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-sourcing-program-management-intern-winter-spring-2027-8262987?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Oct 7 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Perception, Robotics](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-perception-robotics-8227633?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 7 |
@@ -176,13 +178,7 @@ Internships from employers' own career pages. **1,144 are live right now.** This
 | **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 1 |
 | **[Varda Space Industries](https://varda.com)** | **[Avionics Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-avionics-engineering-internship-summer-2027-8010158003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
 | **[Partly](https://jobs.ashbyhq.com/partly.com)** | **[Solutions Engineer Intern, US](https://interviewchamp.ai/jobs/partly-com-solutions-engineer-intern-us-842283ee-99bd-4dc0-bc9e-9a9567487217?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas | On-site |  | Oct 1 |
-| **[Air Force Civilian Career Training](https://www.usajobs.gov)** | **[Engineer (Palace Acquire Intern)](https://interviewchamp.ai/jobs/air-force-civilian-career-training-usajobs-engineer-palace-acquire-intern-887072300?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Maxwell AFB, Alabama; Davis Monthan AFB, Arizona; Edwards AFB, California (+41 more) | On-site | $50,460–$109,678 | Oct 1 |
-| **[Astranis](https://astranis.com)** | **[Radiation Effects Engineer Intern (Winter 2027)](https://interviewchamp.ai/jobs/astranis-radiation-effects-engineer-intern-winter-2027-4704335006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Sep 30 |
-| **[Helion](https://jobs.ashbyhq.com/helion)** | **[Computational Plasma Research Summer 2027 Intern](https://interviewchamp.ai/jobs/helion-computational-plasma-research-summer-2027-intern-d2a1f8af-a310-44af-a5bc-c68816ebb7f6?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Everett, WA | On-site |  | Sep 30 |
-| **[Helion](https://jobs.ashbyhq.com/helion)** | **[Plasma Diagnostics Summer 2027 Intern](https://interviewchamp.ai/jobs/helion-plasma-diagnostics-summer-2027-intern-fdf8229e-34e4-45f2-b97e-57d056f46a31?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Everett, WA | On-site |  | Sep 30 |
-| **[Astranis](https://astranis.com)** | **[Automation & Controls Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/astranis-automation-controls-engineering-intern-summer-2027-4718206006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Sep 30 |
-| **[Astranis](https://astranis.com)** | **[Automation & Controls Engineering Intern (Winter 2027)](https://interviewchamp.ai/jobs/astranis-automation-controls-engineering-intern-winter-2027-4718203006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Sep 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-07 21:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 00:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
