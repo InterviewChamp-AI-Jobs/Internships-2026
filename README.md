@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,145 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,147 are live right now.** This list shows the newest 146 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,145, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,147, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **1,145 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Gemini](https://boards.greenhouse.io/embed)** | **[Content Production Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-content-production-intern-winter-2027-8247993?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 8 |
+| **[Gemini](https://boards.greenhouse.io/embed)** | **[Product Design Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-product-design-intern-winter-2027-8240208?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 8 |
 | **[Advanced Space](https://advancedspace.com)** | **[2027 Project Management Summer Internship](https://interviewchamp.ai/jobs/advancedspace-2027-project-management-summer-internship-4376384009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Westminster, CO | On-site |  | Oct 8 |
 | **[Epic Games](https://epicgames.com)** | **[SDET Intern](https://interviewchamp.ai/jobs/epicgames-sdet-intern-6219626004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cary,North Carolina,United States | On-site |  | Oct 8 |
 | **[Leland](https://jobs.ashbyhq.com/leland)** | **[Sales Ops Intern](https://interviewchamp.ai/jobs/leland-sales-ops-intern-a2c2c00d-2b9d-4e5c-bf15-289473ba1191?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Leland HQ - Lehi, UT (Hybrid) (Remote) | Remote |  | Oct 7 |
@@ -122,7 +124,6 @@ Internships from employers' own career pages. **1,145 are live right now.** This
 | **[Brighton Jones](https://jobs.lever.co/brightonjones)** | **[Winter Tax Internship: January - March 2027 (Dallas)](https://interviewchamp.ai/jobs/brightonjones-winter-tax-internship-january-march-2027-dallas-af9a24ce-d4e8-4f58-b8f2-a2027698b829?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX | On-site |  | Oct 2 |
 | **[Brighton Jones](https://jobs.lever.co/brightonjones)** | **[Winter Tax Internship: January - March 2027 (Seattle)](https://interviewchamp.ai/jobs/brightonjones-winter-tax-internship-january-march-2027-seattle-a8fad0ad-c515-42c2-9071-9c1bf756fd12?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, WA | On-site |  | Oct 2 |
 | **[Gemini](https://boards.greenhouse.io/embed)** | **[Prediction Markets Operations Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-prediction-markets-operations-intern-winter-2027-8240204?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 2 |
-| **[Gemini](https://boards.greenhouse.io/embed)** | **[Brand Design Intern (Winter 2027)](https://interviewchamp.ai/jobs/gemini-brand-design-intern-winter-2027-8243097?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Oct 2 |
 | **[Affirm](https://affirm.com)** | **[Software Engineer (Machine Learning) Intern (Summer 2027)](https://interviewchamp.ai/jobs/affirm-software-engineer-machine-learning-intern-summer-2027-8008645003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, California, United States | On-site |  | Oct 2 |
 | **[Affirm](https://affirm.com)** | **[Software Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/affirm-software-engineer-intern-summer-2027-8011590003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, California, United States | On-site |  | Oct 2 |
 | **[Eulerity](https://eulerity.com)** | **[Finance Internship](https://interviewchamp.ai/jobs/eulerity-finance-internship-4718848006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 2 |
@@ -177,8 +178,7 @@ Internships from employers' own career pages. **1,145 are live right now.** This
 | **[Rubrik Job Board](https://www.rubrik.com)** | **[Product Growth Intern (MBA), Summer 2027](https://interviewchamp.ai/jobs/rubrik-product-growth-intern-mba-summer-2027-8224424?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto, CA | On-site |  | Oct 1 |
 | **[CannonDesign](http://www.cannondesign.com)** | **[Mechanical Student Intern](https://interviewchamp.ai/jobs/cannondesign-mechanical-student-intern-8859109002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | St. Louis, MO | On-site |  | Oct 1 |
 | **[ALU](https://job-boards.greenhouse.io/alu)** | **[WCN-ALU Curriculum Development Intern](https://interviewchamp.ai/jobs/alu-wcn-alu-curriculum-development-intern-8245311?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 1 |
-| **[Varda Space Industries](https://varda.com)** | **[Avionics Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/vardaspace-avionics-engineering-internship-summer-2027-8010158003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, California, United States | On-site |  | Oct 1 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-08 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
