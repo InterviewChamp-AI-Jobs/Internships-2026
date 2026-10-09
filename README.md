@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,368 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,370 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,368, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,370, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -44,6 +44,7 @@ Internships from employers' own career pages. **1,368 are live right now.** This
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Research, World Modeling Evaluation](https://interviewchamp.ai/jobs/waymo-2026-summer-intern-phd-research-world-modeling-evaluation-8265173?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 8 |
 | **[Charles River Associates](https://crai.com)** | **[(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)](https://interviewchamp.ai/jobs/charlesriverassociates-2028-bachelor-s-master-s-graduates-data-analytics-consulting-analyst-associate-intern-summer-2027-8263475?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY, United States | On-site |  | Oct 8 |
 | **[Landor](https://job-boards.greenhouse.io/landor)** | **[Next Gen Strategy Intern](https://interviewchamp.ai/jobs/landor-next-gen-strategy-intern-8261641?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Oct 8 |
+| **[ASM](https://www.asm.com)** | **[\[2027 Summer Internship\] Phoenix](https://interviewchamp.ai/jobs/asm-2027-summer-internship-phoenix-5001135101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US > Arizona > Phoenix | On-site |  | Oct 8 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Machine Learning, Planning/Prediction](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-phd-machine-learning-planning-prediction-8262154?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 8 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-trustee-government-affairs-intern-the-american-council-of-trustees-and-alumni-eaac73d6-76c5-4fbc-a3a2-3822f55afbad?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, DC | On-site | $7.5k | Oct 8 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Development Intern - The American Council of Trustees and Alumni](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-development-intern-the-american-council-of-trustees-and-alumni-11740e1b-1839-4c34-9883-6f4edf609b5f?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, DC | On-site | $7.5k | Oct 8 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,368 are live right now.** This
 | **[Proxima](https://jobs.ashbyhq.com/proxima)** | **[Compound Management Intern](https://interviewchamp.ai/jobs/proxima-compound-management-intern-29aae84a-588c-48d2-821c-30d91efb9889?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston | On-site |  | Oct 4 |
 | **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Summer 2027 - Electrical Engineering Internship, FPGA](https://interviewchamp.ai/jobs/cesiumastro-summer-2027-electrical-engineering-internship-fpga-5ac10e3b-f9d7-4029-bf25-73a191ff2636?utm_source=github&utm_medium=referral&utm_campaign=internships)** | El Segundo, CA | On-site |  | Oct 3 |
 | **[Brooks Running](https://jobs.lever.co/brooksrunning)** | **[Run Perception Graduate Internship, R&D - Winter 2027](https://interviewchamp.ai/jobs/brooksrunning-run-perception-graduate-internship-r-d-winter-2027-af8e5a0b-0383-486d-9096-d029a6a83a48?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US, Washington, Seattle | On-site |  | Oct 3 |
-| **[Muon Space](https://muonspace.com)** | **[Environmental Test Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-environmental-test-engineering-intern-summer-2027-5256286007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 3 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-09 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-09 09:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
