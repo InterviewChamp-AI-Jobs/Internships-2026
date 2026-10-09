@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,369 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,368 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,369, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,368, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -35,7 +35,7 @@ Internships from employers' own career pages. **1,369 are live right now.** This
 | **[Fairstead](https://job-boards.greenhouse.io/fairsteadescllc)** | **[Intern - Development Operations](https://interviewchamp.ai/jobs/fairsteadescllc-intern-development-operations-5448063008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Oct 8 |
 | **[GuidePoint Security](https://boards.greenhouse.io/guidepointsecurity)** | **[GPSU Cybersecurity Intern - Application Security](https://interviewchamp.ai/jobs/guidepointsecurity-gpsu-cybersecurity-intern-application-security-6212490004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 8 |
 | **[Zipline](https://www.zipline.com)** | **[Corporate Tax Intern (Summer 2027)](https://interviewchamp.ai/jobs/flyzipline-corporate-tax-intern-summer-2027-8017301003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | South San Francisco, California, USA | On-site |  | Oct 8 |
-| **[Mach9](https://jobs.ashbyhq.com/mach9)** | **[Perception Intern, Fall 2026](https://interviewchamp.ai/jobs/mach9-perception-intern-fall-2026-6189f940-38ab-4235-80fb-1dda13966435?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 8 |
+| **[Mach9](https://jobs.ashbyhq.com/mach9)** | **[Perception Intern](https://interviewchamp.ai/jobs/mach9-perception-intern-6189f940-38ab-4235-80fb-1dda13966435?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 8 |
 | **[Jane](https://jobs.ashbyhq.com/jane)** | **[Revenue Cycle Management Intern](https://interviewchamp.ai/jobs/jane-revenue-cycle-management-intern-6a644699-0d4d-4f4b-b471-7940a0bd74cc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States (Remote) | Remote |  | Oct 8 |
 | **[SharkNinja](https://sharkninja.com)** | **[Summer 2027: Mechanical Engineering Intern, Shark (May to August)](https://interviewchamp.ai/jobs/sharkninjaoperatingllc-summer-2027-mechanical-engineering-intern-shark-may-to-august-4718812006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Needham, MA, United States | On-site |  | Oct 8 |
 | **[SharkNinja](https://sharkninja.com)** | **[Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](https://interviewchamp.ai/jobs/sharkninjaoperatingllc-spring-2027-mechanical-engineering-co-op-shark-january-to-june-4718791006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Needham, MA, United States | On-site |  | Oct 8 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **1,369 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-09 00:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-09 03:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
