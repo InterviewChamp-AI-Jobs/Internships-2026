@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,473 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,474 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,473, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,474, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,8 @@ Internships from employers' own career pages. **1,473 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Marketing Intern](https://interviewchamp.ai/jobs/nox-metals-marketing-intern-dab1e3fa-927e-4c4c-83e1-c987f7b96b9a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles | On-site |  | Oct 11 |
+| **[Harbinger Motors Inc.](https://harbingermotors.com)** | **[Intern, Battery Test](https://interviewchamp.ai/jobs/harbingermotors-intern-battery-test-5263015007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Garden Grove, CA | On-site |  | Oct 11 |
+| **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Marketing Intern](https://interviewchamp.ai/jobs/nox-metals-marketing-intern-dab1e3fa-927e-4c4c-83e1-c987f7b96b9a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles | On-site | $39.1k–$43.2k | Oct 11 |
 | **[Advanced Space](https://advancedspace.com)** | **[2027 Technical Growth and Capture Intern/Co-op](https://interviewchamp.ai/jobs/advancedspace-2027-technical-growth-and-capture-intern-co-op-4444656009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Westminster, CO | On-site |  | Oct 10 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Computer Vision & Robotics Intern](https://interviewchamp.ai/jobs/clera-computer-vision-robotics-intern-f211c31e-d92a-468e-9da1-3f8f27f0e05b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 10 |
 | **[Salient Motion](https://job-boards.greenhouse.io/salientmotion)** | **[Engineering Co-op](https://interviewchamp.ai/jobs/salientmotion-engineering-co-op-5449549008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Hawthorne, CA | On-site |  | Oct 10 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,473 are live right now.** This
 | **[Woolpert](https://job-boards.greenhouse.io/woolpert)** | **[Construction Management Internship (Summer 2027)](https://interviewchamp.ai/jobs/woolpert-construction-management-internship-summer-2027-4426432009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dayton, OH; Denver, CO; Houston, TX; Indianapolis, IN; Jackson, WY; Salt Lake City, UT | On-site |  | Oct 7 |
 | **[Apex Companies](https://job-boards.greenhouse.io/apexcompanies)** | **[Transportation Engineering Co-Op](https://interviewchamp.ai/jobs/apexcompanies-transportation-engineering-co-op-5423818008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Quincy, MA | On-site |  | Oct 7 |
 | **[Woolpert](https://job-boards.greenhouse.io/woolpert)** | **[Site Civil/ Energy Internship (Summer 2027)](https://interviewchamp.ai/jobs/woolpert-site-civil-energy-internship-summer-2027-4426119009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbus, OH | On-site |  | Oct 7 |
-| **[Kernal Biologics, Inc.](https://job-boards.greenhouse.io/kernalbio)** | **[Co-op, mRNA-LNP Therapeutics](https://interviewchamp.ai/jobs/kernalbio-co-op-mrna-lnp-therapeutics-8015667003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA (Seaport) | On-site |  | Oct 7 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-11 21:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 00:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
