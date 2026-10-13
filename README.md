@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,493 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,495 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,493, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,495, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Internships from employers' own career pages. **1,493 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems)** | **[Technical Design Artist, Intern 2027](https://interviewchamp.ai/jobs/allen-control-systems-technical-design-artist-intern-2027-476bf9ef-17f2-41fd-ae07-ba1090668677?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, TX | On-site |  | Oct 13 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Knowledge Management Program](https://interviewchamp.ai/jobs/equipmentsharecom-intern-knowledge-management-program-8267646?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Oct 13 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Project Coordinator](https://interviewchamp.ai/jobs/equipmentsharecom-intern-it-project-coordinator-8274655?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbia, MO (Headquarters) | On-site |  | Oct 13 |
 | **[Mirakl - AMER](https://job-boards.greenhouse.io/miraklamer)** | **[Business Development & Customer Onboarding Intern](https://interviewchamp.ai/jobs/miraklamer-business-development-customer-onboarding-intern-6222797004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts, United States | On-site |  | Oct 13 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Ground Systems Engineering Intern Spring 2027](https://interviewchamp.ai/jobs/rocketlab-ground-systems-engineering-intern-spring-2027-8007204003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Stennis Space Center, MS | On-site |  | Oct 13 |
 | **[Astera Labs Early Career - North America 2027](https://job-boards.greenhouse.io/asteraearlycareer2027)** | **[Analog/Mixed Signal System Test Engineer Intern](https://interviewchamp.ai/jobs/asteraearlycareer2027-analog-mixed-signal-system-test-engineer-intern-4739769005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 12 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **1,493 are live right now.** This
 | **[Mirakl - AMER](https://job-boards.greenhouse.io/miraklamer)** | **[Talent Acquisition Co-Op](https://interviewchamp.ai/jobs/miraklamer-talent-acquisition-co-op-6218560004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts, United States | On-site |  | Oct 7 |
 | **[Mirakl - AMER](https://job-boards.greenhouse.io/miraklamer)** | **[Content Marketing Co-op](https://interviewchamp.ai/jobs/miraklamer-content-marketing-co-op-6219262004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts, United States | On-site |  | Oct 7 |
 | **[PDT Partners](https://job-boards.greenhouse.io/pdtpartners)** | **[Summer 2027 Quantitative Research Intern - PhD/Postdoctoral](https://interviewchamp.ai/jobs/pdtpartners-summer-2027-quantitative-research-intern-phd-postdoctoral-8263031?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site | From $200k | Oct 7 |
-| **[Woolpert](https://job-boards.greenhouse.io/woolpert)** | **[Geospatial Field Internship (Summer 2027)](https://interviewchamp.ai/jobs/woolpert-geospatial-field-internship-summer-2027-4426488009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Port Orchard, WA | On-site |  | Oct 7 |
-| **[Formlabs](https://formlabs.com)** | **[Global Operations Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-global-operations-intern-winter-spring-2027-8263054?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Oct 7 |
-| **[Formlabs](https://formlabs.com)** | **[Sourcing Program Management Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-sourcing-program-management-intern-winter-spring-2027-8262987?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Oct 7 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-13 09:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-13 12:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
