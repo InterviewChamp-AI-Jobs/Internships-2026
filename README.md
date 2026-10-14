@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,558 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,559 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,558, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,559, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,558 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)](https://interviewchamp.ai/jobs/tenstorrentuniversity-systems-intern-validation-software-design-architecture-packaging-usa-5264424007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, Texas, United States; Santa Clara, California, United States | On-site |  | Oct 14 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Intern](https://interviewchamp.ai/jobs/clera-gtm-intern-ae5097a9-7aa6-411e-a273-af9d987b3b34?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $48k–$72k | Oct 14 |
 | **[Medra](https://jobs.ashbyhq.com/medraai)** | **[Mechanical Engineer - Winter 2026 Internship](https://interviewchamp.ai/jobs/medraai-mechanical-engineer-winter-2026-internship-2a005e91-4b62-4182-a7f3-40900f1ff9ac?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 14 |
 | **[SK hynix memory solutions America Inc.](https://skhynix.com)** | **[Quality Assurance Test Engineer Intern](https://interviewchamp.ai/jobs/skhynixmemorysolutionsamericainc-quality-assurance-test-engineer-intern-4450999009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Oct 14 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,558 are live right now.** This
 | **[SharkNinja](https://sharkninja.com)** | **[Summer 2027: Mechanical Engineering Intern, Shark (May to August)](https://interviewchamp.ai/jobs/sharkninjaoperatingllc-summer-2027-mechanical-engineering-intern-shark-may-to-august-4718812006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Needham, MA, United States | On-site |  | Oct 8 |
 | **[Mantisinnovation](https://jobs.lever.co/mantisinnovation)** | **[Mechanical Engineer Intern / Co-Op for SPRING 2027](https://interviewchamp.ai/jobs/mantisinnovation-mechanical-engineer-intern-co-op-for-spring-2027-6e728d77-5b2f-4f75-ba71-7c93dc410a1c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Alpharetta, GA | On-site |  | Oct 8 |
 | **[Companycam](https://jobs.ashbyhq.com/companycam)** | **[Law Clerk (Intern)](https://interviewchamp.ai/jobs/companycam-law-clerk-intern-29ad807b-62a1-4d9c-865a-bb1149ccd0cd?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lincoln, Nebraska, United States (Remote) | Remote |  | Oct 8 |
-| **[SharkNinja](https://sharkninja.com)** | **[Spring 2027: Mechanical Engineering Co-op, Shark (January to June)](https://interviewchamp.ai/jobs/sharkninjaoperatingllc-spring-2027-mechanical-engineering-co-op-shark-january-to-june-4718791006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Needham, MA, United States | On-site |  | Oct 8 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-14 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-14 09:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
