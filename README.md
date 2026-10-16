@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,633 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,634 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,633, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,634, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,633 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Together AI](https://together.ai)** | **[Hardware Security Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/togetherai-hardware-security-engineer-intern-summer-2027-5238469007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 16 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/clera-founders-associate-intern-cfb904d7-4346-48ab-bac2-bd352da284e8?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $80k–$110k | Oct 16 |
 | **[AiDASH, Inc.](https://job-boards.greenhouse.io/aidashinc)** | **[Software Engineering Intern, Backend](https://interviewchamp.ai/jobs/aidashinc-software-engineering-intern-backend-4436057009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto, California, United States | On-site |  | Oct 16 |
 | **[OpenSesame](https://boards.greenhouse.io/opensesame)** | **[Security Analyst Internship](https://interviewchamp.ai/jobs/opensesame-security-analyst-internship-8287886?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 16 |
@@ -72,7 +73,7 @@ Internships from employers' own career pages. **1,633 are live right now.** This
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Semantics](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-semantics-8244128?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, California, USA | On-site |  | Oct 15 |
 | **[Moorecolson](https://jobs.lever.co/moorecolson)** | **[Risk Advisory Summer 2028 Internship](https://interviewchamp.ai/jobs/moorecolson-risk-advisory-summer-2028-internship-812baa63-ee4b-46b6-9b38-f18b6eb1bc6e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta | On-site |  | Oct 15 |
 | **[Langan Engineering & Environmental Services](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc)** | **[Intern/Co-op - Site/Civil Engineering (Summer 2027)](https://interviewchamp.ai/jobs/langanengineeringandenvironmentalservicesllc-intern-co-op-site-civil-engineering-summer-2027-4368837009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Tampa, Florida, United States | On-site |  | Oct 15 |
-| **[airbnb](https://airbnb.com)** | **[Strategic Finance & Analytics Intern](https://interviewchamp.ai/jobs/airbnb-strategic-finance-analytics-intern-8285171?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States | On-site |  | Oct 15 |
+| **[airbnb](https://airbnb.com)** | **[Strategic Finance & Analytics Intern (MBA)](https://interviewchamp.ai/jobs/airbnb-strategic-finance-analytics-intern-mba-8285171?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States | On-site |  | Oct 15 |
 | **[AMOREPACIFIC US, INC](https://job-boards.greenhouse.io/amorepacificusinc)** | **[Global Marketing & Social Intelligence Intern, LA HQ](https://interviewchamp.ai/jobs/amorepacificusinc-global-marketing-social-intelligence-intern-la-hq-4453302009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles | On-site |  | Oct 15 |
 | **[Kao Corporation](https://kao.voyse.io)** | **[Accounting Intern](https://interviewchamp.ai/jobs/kao-accounting-intern-4721973006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States of America | On-site |  | Oct 15 |
 | **[Nomagic](https://jobs.lever.co/Nomagic)** | **[Engineering and Commercial Intern](https://interviewchamp.ai/jobs/nomagic-engineering-and-commercial-intern-53672f09-541e-4037-8370-137abab635c1?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta | On-site |  | Oct 15 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,633 are live right now.** This
 | **[Lakefront Biotherapeutics, Inc.](https://job-boards.greenhouse.io/lakefrontbiotherapeuticsinc)** | **[Intern, Search & Evaluation](https://interviewchamp.ai/jobs/lakefrontbiotherapeuticsinc-intern-search-evaluation-4437785009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | South San Francisco, CA | On-site |  | Oct 13 |
 | **[Hillel International](https://job-boards.greenhouse.io/hillel)** | **[Operations Intern, Talent Development & Training](https://interviewchamp.ai/jobs/hillel-operations-intern-talent-development-training-4743195005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 13 |
 | **[E Tech Group](https://etechgroup.com)** | **[Engineering Intern](https://interviewchamp.ai/jobs/etechgroup-engineering-intern-6222811004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Portsmouth, NH | On-site |  | Oct 13 |
-| **[Van Metre Companies](https://job-boards.greenhouse.io/vanmetre)** | **[New Homes Rotational Internship - Summer 2027](https://interviewchamp.ai/jobs/vanmetre-new-homes-rotational-internship-summer-2027-8278387?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Ashburn, VA | On-site |  | Oct 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-16 03:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-16 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
