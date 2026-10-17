@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,664 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,665 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,664, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,665, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,664 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Computer Vision & Robotics Intern](https://interviewchamp.ai/jobs/clera-computer-vision-robotics-intern-697c2212-e39d-4e6e-92c2-12e6603a61d0?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 17 |
 | **[Together AI](https://together.ai)** | **[Research Intern, Frontier Speculative Decoding (Winter 2027)](https://interviewchamp.ai/jobs/togetherai-research-intern-frontier-speculative-decoding-winter-2027-5267197007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 16 |
 | **[Together AI](https://together.ai)** | **[Research Intern, Frontier Speculative Decoding (Summer 2027)](https://interviewchamp.ai/jobs/togetherai-research-intern-frontier-speculative-decoding-summer-2027-5267198007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 16 |
 | **[QuEra Computing, Inc.](https://job-boards.greenhouse.io/queracomputinginc)** | **[QPU Build Co-Op – Optics & Data Analysis](https://interviewchamp.ai/jobs/queracomputinginc-qpu-build-co-op-optics-data-analysis-5455950008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA USA | On-site |  | Oct 16 |
@@ -145,7 +146,6 @@ Internships from employers' own career pages. **1,664 are live right now.** This
 | **[Later](https://job-boards.greenhouse.io/later)** | **[HR Coordinator Co-op](https://interviewchamp.ai/jobs/later-hr-coordinator-co-op-8886675002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA | On-site |  | Oct 14 |
 | **[National Life Insurance Company](https://job-boards.greenhouse.io/nationallifeinsurancecompany)** | **[Data Science Intern – Summer 2027](https://interviewchamp.ai/jobs/nationallifeinsurancecompany-data-science-intern-summer-2027-4449670009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Addison, TX; Montpelier, VT | On-site |  | Oct 14 |
 | **[Lasko Products](https://lasko.com)** | **[Internal Communications Coordinator - Winter/Spring Internship](https://interviewchamp.ai/jobs/laskoproducts-internal-communications-coordinator-winter-spring-internship-5265798007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | West Chester, PA | On-site |  | Oct 14 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Growth & Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-2e5eb581-3370-4d27-8d1c-ef024230bd70?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 14 |
 | **[Skydio](https://skydio.com)** | **[Manufacturing Software Engineer Intern - Winter 2027](https://interviewchamp.ai/jobs/skydio-manufacturing-software-engineer-intern-winter-2027-ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California, United States (Remote) | Remote |  | Oct 14 |
 | **[Walkerconsultants](https://jobs.lever.co/walkerconsultants)** | **[Structural Engineering Internship - Summer 2027](https://interviewchamp.ai/jobs/walkerconsultants-structural-engineering-internship-summer-2027-d5e81817-73c6-4055-a3f8-dfb9bbe119b8?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Bellevue, WA | On-site |  | Oct 14 |
 | **[MacKay](https://job-boards.greenhouse.io/mackaysposito)** | **[Land Survey Intern - Summer 2027](https://interviewchamp.ai/jobs/mackaysposito-land-survey-intern-summer-2027-4430354009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Roseville, CA | On-site |  | Oct 14 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **1,664 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-17 15:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 18:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
