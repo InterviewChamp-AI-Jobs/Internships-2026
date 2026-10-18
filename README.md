@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,661 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,662 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,661, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,662, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,661 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[DiDi Labs](https://job-boards.greenhouse.io/didi)** | **[Research Intern, Scene Understanding and Planning](https://interviewchamp.ai/jobs/didi-research-intern-scene-understanding-and-planning-8299748?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 18 |
 | **[Eulerity](https://eulerity.com)** | **[AI Intern - Office of CEO & Head of Product](https://interviewchamp.ai/jobs/eulerity-ai-intern-office-of-ceo-head-of-product-4722871006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Computer Vision & Robotics Intern](https://interviewchamp.ai/jobs/clera-computer-vision-robotics-intern-697c2212-e39d-4e6e-92c2-12e6603a61d0?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 17 |
 | **[Together AI](https://together.ai)** | **[Research Intern, Frontier Speculative Decoding (Winter 2027)](https://interviewchamp.ai/jobs/togetherai-research-intern-frontier-speculative-decoding-winter-2027-5267197007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 16 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,661 are live right now.** This
 | **[Arcesium LLC](https://arcesium.com)** | **[Finance Intern](https://interviewchamp.ai/jobs/arcesiumllc-finance-intern-5262557007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Oct 13 |
 | **[Arcesium LLC](https://arcesium.com)** | **[Corporate Strategy Intern](https://interviewchamp.ai/jobs/arcesiumllc-corporate-strategy-intern-5262605007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Oct 13 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-machine-learning-planning-prediction-8279620?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 13 |
-| **[Kikoff](https://job-boards.greenhouse.io/kikoff)** | **[Recruiting Coordination Intern](https://interviewchamp.ai/jobs/kikoff-recruiting-coordination-intern-4450381009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, California | On-site |  | Oct 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-18 18:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 21:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
