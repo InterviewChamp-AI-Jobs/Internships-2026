@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,738 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,739 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,738, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,739, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,738 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Sprinto](https://jobs.lever.co/Sprinto)** | **[Field Sales Intern](https://interviewchamp.ai/jobs/sprinto-field-sales-intern-446d7800-7fc2-4f0a-9a01-53c12c488f5a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco Bay Area | Hybrid |  | Oct 20 |
 | **[Stratolaunch](https://stratolaunch.com)** | **[Government Relations Summer Intern](https://interviewchamp.ai/jobs/stratolaunch-government-relations-summer-intern-5457984008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 20 |
 | **[Orbital Operations](https://job-boards.greenhouse.io/orbitaloperations)** | **[Summer 2027 Internship - Engineering](https://interviewchamp.ai/jobs/orbitaloperations-summer-2027-internship-engineering-4375099009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Long Beach, CA | On-site |  | Oct 20 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Ground Systems Engineering Intern Summer 2027](https://interviewchamp.ai/jobs/rocketlab-ground-systems-engineering-intern-summer-2027-8007202003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Stennis Space Center, MS | On-site |  | Oct 19 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,738 are live right now.** This
 | **[Matic Robots](https://jobs.ashbyhq.com/MaticRobots)** | **[Product Design Intern](https://interviewchamp.ai/jobs/maticrobots-product-design-intern-655f8bb2-26f0-4324-acd6-f9c0d0d24f6b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Menlo Park, CA | On-site |  | Oct 15 |
 | **[SK hynix memory solutions America Inc.](https://skhynix.com)** | **[Intern, Mechanical Engineer](https://interviewchamp.ai/jobs/skhynixmemorysolutionsamericainc-intern-mechanical-engineer-4452580009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Oct 14 |
 | **[Sigma Computing](https://sigmacomputing.com)** | **[Technical Writer Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-technical-writer-intern-summer-2027-8034205003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 14 |
-| **[Sigma Computing](https://sigmacomputing.com)** | **[Technical Writer Intern (Summer 2027)](https://interviewchamp.ai/jobs/sigmacomputing-technical-writer-intern-summer-2027-8034168003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-20 09:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 13:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
