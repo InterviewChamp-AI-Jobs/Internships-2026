@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,737 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,739 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,737, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,739, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,11 +32,13 @@ Internships from employers' own career pages. **1,737 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Stratolaunch](https://stratolaunch.com)** | **[Government Relations Summer Intern](https://interviewchamp.ai/jobs/stratolaunch-government-relations-summer-intern-5457984008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 20 |
+| **[Orbital Operations](https://job-boards.greenhouse.io/orbitaloperations)** | **[Summer 2027 Internship - Engineering](https://interviewchamp.ai/jobs/orbitaloperations-summer-2027-internship-engineering-4375099009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Long Beach, CA | On-site |  | Oct 20 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Ground Systems Engineering Intern Summer 2027](https://interviewchamp.ai/jobs/rocketlab-ground-systems-engineering-intern-summer-2027-8007202003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Stennis Space Center, MS | On-site |  | Oct 19 |
 | **[Palantir](https://palantir.com)** | **[Software Engineer, Internship - Query Engines](https://interviewchamp.ai/jobs/palantir-software-engineer-internship-query-engines-da774f81-c98c-4dcf-9b9c-949fd7d90a13?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 19 |
 | **[Stratolaunch](https://stratolaunch.com)** | **[Engineering Intern Summer 2027](https://interviewchamp.ai/jobs/stratolaunch-engineering-intern-summer-2027-5457750008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mojave, California, United States | On-site |  | Oct 19 |
 | **[ALO](https://boards.greenhouse.io/aloyoga)** | **[Legal Intern](https://interviewchamp.ai/jobs/aloyoga-legal-intern-6228886004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Beverly Hills, California, United States | On-site |  | Oct 19 |
-| **[Insomniac Games](https://job-boards.greenhouse.io/insomniac)** | **[User Research Intern (Tools)- Masters](https://interviewchamp.ai/jobs/insomniac-user-research-intern-tools-masters-6227520004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States, Burbank, CA | On-site |  | Oct 19 |
+| **[Insomniac Games](https://job-boards.greenhouse.io/insomniac)** | **[User Research Intern (Tools)- Master's](https://interviewchamp.ai/jobs/insomniac-user-research-intern-tools-master-s-6227520004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States, Burbank, CA | On-site |  | Oct 19 |
 | **[Insomniac Games](https://job-boards.greenhouse.io/insomniac)** | **[Dialogue Intern- Unergraduate](https://interviewchamp.ai/jobs/insomniac-dialogue-intern-unergraduate-6228761004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States, Burbank, CA | On-site |  | Oct 19 |
 | **[Insomniac Games](https://job-boards.greenhouse.io/insomniac)** | **[Game Design Intern-Undergraduate](https://interviewchamp.ai/jobs/insomniac-game-design-intern-undergraduate-6226630004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States, Burbank, CA | On-site |  | Oct 19 |
 | **[KHAITE](https://job-boards.greenhouse.io/khaite)** | **[Design Intern, Non-Apparel, Spring 2027](https://interviewchamp.ai/jobs/khaite-design-intern-non-apparel-spring-2027-5457663008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 19 |
@@ -63,8 +65,6 @@ Internships from employers' own career pages. **1,737 are live right now.** This
 | **[Nintendo](https://careers.nintendo.com)** | **[Intern - User Experience](https://interviewchamp.ai/jobs/nintendo-intern-user-experience-4418258009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Redmond, WA | On-site |  | Oct 19 |
 | **[Nintendo](https://careers.nintendo.com)** | **[Intern - Sustainability](https://interviewchamp.ai/jobs/nintendo-intern-sustainability-4418266009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Redmond, WA | On-site |  | Oct 19 |
 | **[Nintendo](https://careers.nintendo.com)** | **[Intern - Supply Chain Planning](https://interviewchamp.ai/jobs/nintendo-intern-supply-chain-planning-4417296009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Redmond, WA | On-site |  | Oct 19 |
-| **[Matic Robots](https://jobs.ashbyhq.com/MaticRobots)** | **[Manufacturing Design Engineer Intern](https://interviewchamp.ai/jobs/maticrobots-manufacturing-design-engineer-intern-92a24480-15df-4413-9736-91a4efd5058a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Menlo Park, CA | On-site |  | Oct 19 |
-| **[Matic Robots](https://jobs.ashbyhq.com/MaticRobots)** | **[Mechanical Design Engineer Intern](https://interviewchamp.ai/jobs/maticrobots-mechanical-design-engineer-intern-4b9f178f-5346-443d-899e-4d8a76372517?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Menlo Park, CA | On-site |  | Oct 19 |
 | **[Amplify](https://jobs.ashbyhq.com/amplify)** | **[Summer 2027: Training and Enablement Intern](https://interviewchamp.ai/jobs/amplify-summer-2027-training-and-enablement-intern-ddd78d20-3e7c-4902-987b-55f6e208ab34?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote - United States | Remote |  | Oct 19 |
 | **[Amplify](https://jobs.ashbyhq.com/amplify)** | **[Summer 2027: Supply Chain Intern](https://interviewchamp.ai/jobs/amplify-summer-2027-supply-chain-intern-143c8ccc-69ce-4141-bcfe-0bc553ea49b4?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote - United States | Remote |  | Oct 19 |
 | **[Amplify](https://jobs.ashbyhq.com/amplify)** | **[Summer 2027: Software Engineering Intern](https://interviewchamp.ai/jobs/amplify-summer-2027-software-engineering-intern-855d22a3-f15e-49f6-854c-29e505653efa?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote - United States | Remote |  | Oct 19 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **1,737 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-20 01:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 03:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
