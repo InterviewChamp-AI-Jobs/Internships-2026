@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,768 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,767 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,768, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,767, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,768 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Julius](https://jobs.ashbyhq.com/julius)** | **[Investment Banking - AI Research (MBA Intern)](https://interviewchamp.ai/jobs/julius-investment-banking-ai-research-mba-intern-8e228c39-4a79-4202-bdbf-dddb703693cc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 21 |
 | **[Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai)** | **[Software Engineer Intern, Inference](https://interviewchamp.ai/jobs/rhoda-ai-software-engineer-intern-inference-2de33083-782f-489e-9b91-f40761a36bf4?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View | On-site |  | Oct 21 |
 | **[GoFundMe](https://gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://interviewchamp.ai/jobs/gofundme-mba-product-management-internship-summer-2027-8304644?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 21 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Summer 2027 - Data Science Intern (R6324)](https://interviewchamp.ai/jobs/shieldai-summer-2027-data-science-intern-r6324-aa71c28a-be00-43ca-8aa7-b764b2143797?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Diego, California | On-site |  | Oct 21 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,768 are live right now.** This
 | **[Rennscotmfg](https://jobs.ashbyhq.com/rennscotmfg)** | **[Subtractive Manufacturing Engineering Co-Op - Spring 2027](https://interviewchamp.ai/jobs/rennscotmfg-subtractive-manufacturing-engineering-co-op-spring-2027-19630145-1218-41bb-94f0-8693eb5454f4?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Woburn, Massachusetts, United States | On-site | $0k–$0k | Oct 16 |
 | **[Together AI](https://together.ai)** | **[Hardware Security Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/togetherai-hardware-security-engineer-intern-summer-2027-5238469007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 16 |
 | **[AiDASH, Inc.](https://job-boards.greenhouse.io/aidashinc)** | **[Software Engineering Intern, Backend](https://interviewchamp.ai/jobs/aidashinc-software-engineering-intern-backend-4436057009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto, California, United States | On-site |  | Oct 16 |
-| **[OpenSesame](https://boards.greenhouse.io/opensesame)** | **[Security Analyst Internship](https://interviewchamp.ai/jobs/opensesame-security-analyst-internship-8287886?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-21 03:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-21 07:13 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
