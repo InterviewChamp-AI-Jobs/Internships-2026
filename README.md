@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,801 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,802 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,801, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,802, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Internships from employers' own career pages. **1,801 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Benesch](https://www.benesch.com)** | **[Geotechnical Engineering Internship](https://interviewchamp.ai/jobs/alfredbeneschco-geotechnical-engineering-internship-5228570007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lincoln, NE; Omaha, NE | On-site |  | Oct 22 |
+| **[Seven Research](https://job-boards.greenhouse.io/sevenresearch)** | **[People Operations Intern](https://interviewchamp.ai/jobs/sevenresearch-people-operations-intern-5460704008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site | $90k–$130k | Oct 22 |
+| **[Openart](https://jobs.ashbyhq.com/openart)** | **[Early Adopter & Product Builder Intern, Creative AI](https://interviewchamp.ai/jobs/openart-early-adopter-product-builder-intern-creative-ai-8dd52ba6-a5b6-40b1-95fe-50de352fa254?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Carlos, California, USA (Remote) | Remote |  | Oct 22 |
 | **[Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace)** | **[Supply Chain Operations Intern (2027 Summer Internship)](https://interviewchamp.ai/jobs/northwoodspace-supply-chain-operations-intern-2027-summer-internship-7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 22 |
 | **[Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace)** | **[Supply Chain Data & Analytics Intern (2027 Summer Internship)](https://interviewchamp.ai/jobs/northwoodspace-supply-chain-data-analytics-intern-2027-summer-internship-69f99cd7-3ce7-413a-8cfe-29b7ccbc1490?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 22 |
 | **[True Environmental](https://jobs.lever.co/true-environmental)** | **[Water Resources Intern](https://interviewchamp.ai/jobs/true-environmental-water-resources-intern-565f0215-9a6c-4a22-b92a-a3a8fc47fc2c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chantilly, VA | On-site |  | Oct 22 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **1,801 are live right now.** This
 | **[KnowBe4](https://knowbe4.com)** | **[Digital Customer Success Intern](https://interviewchamp.ai/jobs/knowbe4-digital-customer-success-intern-8899970002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Clearwater, Florida | On-site |  | Oct 19 |
 | **[Businessolver](https://www.businessolver.com)** | **[Mobile UX/UI Design Intern (Work-from-Home)](https://interviewchamp.ai/jobs/businessolver-mobile-ux-ui-design-intern-work-from-home-8300879?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote - United States | Remote |  | Oct 19 |
 | **[Bracebridge Capital](https://job-boards.greenhouse.io/bracebridgecapital)** | **[Northeastern University Software Engineer - Application Development Co-op](https://interviewchamp.ai/jobs/bracebridgecapital-northeastern-university-software-engineer-application-development-co-op-4745001005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA | On-site |  | Oct 19 |
-| **[Bracebridge Capital](https://job-boards.greenhouse.io/bracebridgecapital)** | **[Northeastern University Software Engineer - Business Intelligence Co-op](https://interviewchamp.ai/jobs/bracebridgecapital-northeastern-university-software-engineer-business-intelligence-co-op-4744999005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston | On-site |  | Oct 19 |
-| **[DiDi Labs](https://job-boards.greenhouse.io/didi)** | **[Research Intern, Scene Understanding and Planning](https://interviewchamp.ai/jobs/didi-research-intern-scene-understanding-and-planning-8299748?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 18 |
-| **[Eulerity](https://eulerity.com)** | **[AI Intern - Office of CEO & Head of Product](https://interviewchamp.ai/jobs/eulerity-ai-intern-office-of-ceo-head-of-product-4722871006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Oct 17 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-22 01:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-22 03:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
