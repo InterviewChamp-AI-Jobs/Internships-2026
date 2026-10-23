@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,875 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,876 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,875, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,876, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -34,6 +34,7 @@ Internships from employers' own career pages. **1,875 are live right now.** This
 | --- | --- | --- | --- | --- | --- |
 | **[BGE Inc. Campus Recruiting](https://job-boards.greenhouse.io/bgeinccampus)** | **[FAYETTEVILLE - Transportation, Internship](https://interviewchamp.ai/jobs/bgeinccampus-fayetteville-transportation-internship-5461893008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703 | On-site |  | Oct 23 |
 | **[BGE, Inc](https://job-boards.greenhouse.io/bgeinc)** | **[FAYETTEVILLE - Transportation, Internship](https://interviewchamp.ai/jobs/bgeinc-fayetteville-transportation-internship-5461892008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | One Steele Plaza 3739 N. Steele Boulevard, Suite 340, Fayetteville, AR 72703 | On-site |  | Oct 23 |
+| **[Library of Congress](https://www.usajobs.gov)** | **[Intern Staff Assistant](https://interviewchamp.ai/jobs/library-of-congress-usajobs-intern-staff-assistant-889918000?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia | On-site | $46,610–$57,736 | Oct 23 |
 | **[Ursa Major](https://ursamajor.com)** | **[2027 Summer Systems Engineering Intern](https://interviewchamp.ai/jobs/ursamajor-2027-summer-systems-engineering-intern-4746900005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Berthoud, Colorado | On-site |  | Oct 22 |
 | **[Astera Labs Early Career - North America 2027](https://job-boards.greenhouse.io/asteraearlycareer2027)** | **[Signal Integrity Solutions Architect Intern](https://interviewchamp.ai/jobs/asteraearlycareer2027-signal-integrity-solutions-architect-intern-4746899005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 22 |
 | **[Astera Labs Early Career - North America 2027](https://job-boards.greenhouse.io/asteraearlycareer2027)** | **[Mechanical Solutions Architect Intern](https://interviewchamp.ai/jobs/asteraearlycareer2027-mechanical-solutions-architect-intern-4746898005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 22 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,875 are live right now.** This
 | **[Legend Biotech US](https://job-boards.greenhouse.io/legendcareers)** | **[Site Project Management Office Intern](https://interviewchamp.ai/jobs/legendcareers-site-project-management-office-intern-4745151005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Raritan, New Jersey, United States | On-site |  | Oct 20 |
 | **[Legend Biotech US](https://job-boards.greenhouse.io/legendcareers)** | **[Intern, FFBA Analytical Development](https://interviewchamp.ai/jobs/legendcareers-intern-ffba-analytical-development-4745128005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerset, New Jersey, United States | On-site |  | Oct 20 |
 | **[Sprinto](https://jobs.lever.co/Sprinto)** | **[Field Sales Intern](https://interviewchamp.ai/jobs/sprinto-field-sales-intern-446d7800-7fc2-4f0a-9a01-53c12c488f5a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco Bay Area | Hybrid |  | Oct 20 |
-| **[Stratolaunch](https://stratolaunch.com)** | **[Government Relations Summer Intern](https://interviewchamp.ai/jobs/stratolaunch-government-relations-summer-intern-5457984008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 20 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-23 03:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-23 07:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
