@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,909 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,910 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,909, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,910, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,909 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Arizona Commerce Authority](https://job-boards.greenhouse.io/arizonacommerceauthority)** | **[FY'27 Winter-Spring Internship: Digital Media](https://interviewchamp.ai/jobs/arizonacommerceauthority-fy-27-winter-spring-internship-digital-media-5463151008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Phoenix, Arizona, United States | On-site |  | Oct 24 |
 | **[Panther Life Sciences](https://jobs.ashbyhq.com/panther-life-sciences)** | **[Formulation Development Co-Op (Spring/Summer 2027)](https://interviewchamp.ai/jobs/panther-life-sciences-formulation-development-co-op-spring-summer-2027-aa427b04-25f5-4253-bed9-45e915b8a907?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Pittsburgh | On-site |  | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Strategic Operations Intern](https://interviewchamp.ai/jobs/clera-strategic-operations-intern-a8c434b5-0e1e-4864-9af2-5d3439f10c28?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 24 |
 | **[Panther Life Sciences](https://jobs.ashbyhq.com/panther-life-sciences)** | **[Process Development Co-Op (Spring/Summer 2027)](https://interviewchamp.ai/jobs/panther-life-sciences-process-development-co-op-spring-summer-2027-ed86c73e-000a-483c-bbb6-25abc1551e8d?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Pittsburgh | On-site |  | Oct 24 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,909 are live right now.** This
 | **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Factory Deployed Intern](https://interviewchamp.ai/jobs/nox-metals-factory-deployed-intern-c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Ferndale, Michigan, United States | On-site |  | Oct 21 |
 | **[Analytic Partners](https://jobs.lever.co/analyticpartners)** | **[Data Science Co-Op \| January 2027](https://interviewchamp.ai/jobs/analyticpartners-data-science-co-op-january-2027-006928a3-9a6d-49a3-be4f-46d77f0bb302?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Miami, Florida, United States | Hybrid |  | Oct 21 |
 | **[Burgess & Niple](https://job-boards.greenhouse.io/burgessniple)** | **[Civil Engineer Co-Op](https://interviewchamp.ai/jobs/burgessniple-civil-engineer-co-op-4422299009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Charleston, WV; Parkersburg, WV | On-site |  | Oct 21 |
-| **[Wisdomtree](https://jobs.lever.co/wisdomtree)** | **[Research Intern - Summer 2027](https://interviewchamp.ai/jobs/wisdomtree-research-intern-summer-2027-220e4082-4102-4989-8dac-4d8a2172f04a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Hybrid - New York, NY | Hybrid |  | Oct 21 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-24 18:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 21:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
