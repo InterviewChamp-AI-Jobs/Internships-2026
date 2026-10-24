@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,905 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,906 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,905, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,906, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,905 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-d5e8d923-bf76-413d-b46a-5ad2da90dad4?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Oct 24 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-machine-learning-driver-refinement-foundations-8304574?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA, USA | On-site |  | Oct 24 |
 | **[Samsara](https://samsara.com)** | **[Account Development Representative Intern - Phoenix](https://interviewchamp.ai/jobs/samsara-account-development-representative-intern-phoenix-8319784?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Phoenix, Arizona, United States | On-site |  | Oct 24 |
 | **[Figure](https://job-boards.greenhouse.io/figureai)** | **[Developer Productivity Intern \[Winter 2027\]](https://interviewchamp.ai/jobs/figureai-developer-productivity-intern-winter-2027-4724521006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Oct 24 |
@@ -166,7 +167,6 @@ Internships from employers' own career pages. **1,905 are live right now.** This
 | **[Golden Hippo](https://www.golden-careers.com)** | **[Podcast Editor Intern - Spring 2027](https://interviewchamp.ai/jobs/goldenhippo-podcast-editor-intern-spring-2027-4745297005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Woodland Hills, CA | On-site |  | Oct 21 |
 | **[Golden Hippo](https://www.golden-careers.com)** | **[Influencer Intern - Spring 2027](https://interviewchamp.ai/jobs/goldenhippo-influencer-intern-spring-2027-4745278005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Woodland Hills, CA | On-site |  | Oct 21 |
 | **[Golden Hippo](https://www.golden-careers.com)** | **[Social Media Intern - Spring 2027](https://interviewchamp.ai/jobs/goldenhippo-social-media-intern-spring-2027-4745209005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Woodland Hills, CA | On-site |  | Oct 21 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Intern](https://interviewchamp.ai/jobs/clera-gtm-intern-83e9cba9-97f5-4413-bfad-2924bb3c68a3?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $48k–$72k | Oct 21 |
 | **[Sygaldry Technologies](https://jobs.ashbyhq.com/sygaldry-technologies)** | **[Internship/Research Engineer](https://interviewchamp.ai/jobs/sygaldry-technologies-internship-research-engineer-97918981-2ef3-4f17-96e1-1ad379f7dab1?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Ann Arbor, Michigan, United States | On-site |  | Oct 21 |
 | **[Cadence Solutions](https://job-boards.greenhouse.io/solutions)** | **[Growth Marketing Intern](https://interviewchamp.ai/jobs/solutions-growth-marketing-intern-4723696006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 21 |
 | **[Monumental Sports & Entertainment](https://job-boards.greenhouse.io/monumentalsports)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://interviewchamp.ai/jobs/monumentalsports-internship-business-operations-part-time-seasonal-5271199007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 21 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **1,905 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-24 13:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 15:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
