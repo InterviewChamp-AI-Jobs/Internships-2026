@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,913 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,915 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,913, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,915, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **1,913 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Qube Research & Technologies](https://job-boards.greenhouse.io/quberesearchandtechnologies)** | **[2027 Internship - Technology](https://interviewchamp.ai/jobs/quberesearchandtechnologies-2027-internship-technology-8870423002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, Chicago | On-site | From $178k | Oct 26 |
 | **[Man Group](https://job-boards.eu.greenhouse.io)** | **[Systematic Fast Trading Intern](https://interviewchamp.ai/jobs/mangroup-systematic-fast-trading-intern-5012801101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Oct 26 |
 | **[Man Group](https://job-boards.eu.greenhouse.io)** | **[Solutions Intern](https://interviewchamp.ai/jobs/mangroup-solutions-intern-5012802101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Oct 26 |
 | **[Skydio](https://skydio.com)** | **[Autonomy Engineer Intern, 2027](https://interviewchamp.ai/jobs/skydio-autonomy-engineer-intern-2027-d39c46ce-a4e9-45d2-99bf-17e3b7dac34b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California, United States | On-site |  | Oct 25 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **1,913 are live right now.** This
 | **[Oscar Health](https://oscarhealth.com)** | **[Actuarial Intern](https://interviewchamp.ai/jobs/oscar-actuarial-intern-8303588?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Oct 21 |
 | **[Tandh](https://jobs.lever.co/tandh)** | **[Civil Design Intern](https://interviewchamp.ai/jobs/tandh-civil-design-intern-b655bce1-d5c5-4c95-91d4-72828c58a962?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Brunswick, Georgia | On-site |  | Oct 21 |
 | **[Office of the Secretary of Transportation](https://www.usajobs.gov)** | **[1DOT Internship Program (Pathways)](https://interviewchamp.ai/jobs/office-of-the-secretary-of-transportation-usajobs-1dot-internship-program-pathways-889728300?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Little Rock, Arkansas; Los Angeles, California; Lakewood, Colorado (+29 more) | On-site | $32,435–$77,306 | Oct 21 |
-| **[Nox Metals](https://jobs.ashbyhq.com/nox-metals)** | **[Factory Deployed Intern](https://interviewchamp.ai/jobs/nox-metals-factory-deployed-intern-c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Ferndale, Michigan, United States | On-site |  | Oct 21 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-26 10:07 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-26 15:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
