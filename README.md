@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,952 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,954 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,952, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,954, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Internships from employers' own career pages. **1,952 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Engineering Intern, Wireless Automation and Test (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-engineering-intern-wireless-automation-and-test-summer-2027-6114741004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
+| **[ShipHawk](https://job-boards.greenhouse.io/shiphawk)** | **[Technical Writing Internship I Spring 2027](https://interviewchamp.ai/jobs/shiphawk-technical-writing-internship-i-spring-2027-8326132?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Santa Barbara, CA | On-site |  | Oct 27 |
+| **[Saviynt](https://saviynt.com)** | **[Research Scientist Intern - PhD](https://interviewchamp.ai/jobs/saviynt-research-scientist-intern-phd-183188c3-c043-4f91-b3f0-30ec4961f4c7?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Milpitas, California | On-site |  | Oct 27 |
 | **[Niantic Spatial](https://jobs.ashbyhq.com/niantic-spatial)** | **[Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms](https://interviewchamp.ai/jobs/niantic-spatial-software-engineering-intern-summer-2027-native-sdk-mobile-platforms-ed68b062-4dcb-4deb-9cc0-ed38030f6e43?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 26 |
 | **[Toyota Research Institute](https://tri.global)** | **[Robotics Intern, Trustworthy Learning under Uncertainty](https://interviewchamp.ai/jobs/tri-robotics-intern-trustworthy-learning-under-uncertainty-6f60ff79-c902-466a-912c-7ab849ce6424?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Altos, CA | Hybrid |  | Oct 26 |
 | **[Toyota Research Institute](https://tri.global)** | **[Robotics Intern, World Foundation Models](https://interviewchamp.ai/jobs/tri-robotics-intern-world-foundation-models-016bbb58-857a-4367-b1aa-0cdc9f818478?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Altos, CA | Hybrid |  | Oct 26 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **1,952 are live right now.** This
 | **[Langan Engineering & Environmental Services](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc)** | **[Intern/Co-op - Cyber Security (Spring & Summer 2027)](https://interviewchamp.ai/jobs/langanengineeringandenvironmentalservicesllc-intern-co-op-cyber-security-spring-summer-2027-4451342009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Parsippany, NJ | On-site |  | Oct 22 |
 | **[Grassroots Analytics](https://job-boards.greenhouse.io/grassrootsanalytics)** | **[Marketing Intern \| Spring 2027](https://interviewchamp.ai/jobs/grassrootsanalytics-marketing-intern-spring-2027-4724145006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 22 |
 | **[Grassroots Analytics](https://job-boards.greenhouse.io/grassrootsanalytics)** | **[Nonprofit Accounts Intern \| Spring 2027](https://interviewchamp.ai/jobs/grassrootsanalytics-nonprofit-accounts-intern-spring-2027-4724139006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 22 |
-| **[Grassroots Analytics](https://job-boards.greenhouse.io/grassrootsanalytics)** | **[Digital Intern \| Spring 2027](https://interviewchamp.ai/jobs/grassrootsanalytics-digital-intern-spring-2027-4724135006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 22 |
-| **[Peak Energy](https://peakenergy.com)** | **[Test Engineer Intern, ESS (Summer 2027)](https://interviewchamp.ai/jobs/peakenergy-test-engineer-intern-ess-summer-2027-5272578007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Burlingame, California | On-site |  | Oct 22 |
-| **[Peak Energy](https://peakenergy.com)** | **[Systems Integration and Test Engineer Intern (Summer 2027)](https://interviewchamp.ai/jobs/peakenergy-systems-integration-and-test-engineer-intern-summer-2027-5272567007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Burlingame, California | On-site |  | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-27 01:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-27 03:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
