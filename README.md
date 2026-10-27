@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **1,954 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **1,955 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,954, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 1,955, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,10 @@ Internships from employers' own career pages. **1,954 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Electrical Engineering Intern, Hardware (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-electrical-engineering-intern-hardware-summer-2027-6116396004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
+| **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Product Design Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-product-design-engineering-intern-summer-2027-6141235004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
 | **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Engineering Intern, Wireless Automation and Test (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-engineering-intern-wireless-automation-and-test-summer-2027-6114741004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
+| **[Fourth Power](https://jobs.ashbyhq.com/fourth-power)** | **[Spring 2027 Mechanical Engineering & Materials Science Co-Op](https://interviewchamp.ai/jobs/fourth-power-spring-2027-mechanical-engineering-materials-science-co-op-3137ba54-2121-45e5-b2dc-cfd7e3601104?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Bedford, MA | On-site |  | Oct 27 |
 | **[ShipHawk](https://job-boards.greenhouse.io/shiphawk)** | **[Technical Writing Internship I Spring 2027](https://interviewchamp.ai/jobs/shiphawk-technical-writing-internship-i-spring-2027-8326132?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Santa Barbara, CA | On-site |  | Oct 27 |
 | **[Saviynt](https://saviynt.com)** | **[Research Scientist Intern - PhD](https://interviewchamp.ai/jobs/saviynt-research-scientist-intern-phd-183188c3-c043-4f91-b3f0-30ec4961f4c7?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Milpitas, California | On-site |  | Oct 27 |
 | **[Niantic Spatial](https://jobs.ashbyhq.com/niantic-spatial)** | **[Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms](https://interviewchamp.ai/jobs/niantic-spatial-software-engineering-intern-summer-2027-native-sdk-mobile-platforms-ed68b062-4dcb-4deb-9cc0-ed38030f6e43?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 26 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **1,954 are live right now.** This
 | **[Nex](https://job-boards.greenhouse.io/nex)** | **[Summer 2027 \| UI Motion Artist Intern](https://interviewchamp.ai/jobs/nex-summer-2027-ui-motion-artist-intern-5461373008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, California or Remote | Remote |  | Oct 22 |
 | **[Nex](https://job-boards.greenhouse.io/nex)** | **[Summer 2027 \| 2D Character Artist Intern](https://interviewchamp.ai/jobs/nex-summer-2027-2d-character-artist-intern-5461348008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, California or Remote | Remote |  | Oct 22 |
 | **[Multiply Labs](https://jobs.lever.co/multiplylabs)** | **[Mechanical Engineering Co-op/Intern (Spring 2027)](https://interviewchamp.ai/jobs/multiplylabs-mechanical-engineering-co-op-intern-spring-2027-4a95d36f-6ea3-4044-a6ab-5c2c1d4997a5?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 22 |
-| **[Langan Engineering & Environmental Services](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc)** | **[Intern/Co-op - Cyber Security (Spring & Summer 2027)](https://interviewchamp.ai/jobs/langanengineeringandenvironmentalservicesllc-intern-co-op-cyber-security-spring-summer-2027-4451342009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Parsippany, NJ | On-site |  | Oct 22 |
-| **[Grassroots Analytics](https://job-boards.greenhouse.io/grassrootsanalytics)** | **[Marketing Intern \| Spring 2027](https://interviewchamp.ai/jobs/grassrootsanalytics-marketing-intern-spring-2027-4724145006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 22 |
-| **[Grassroots Analytics](https://job-boards.greenhouse.io/grassrootsanalytics)** | **[Nonprofit Accounts Intern \| Spring 2027](https://interviewchamp.ai/jobs/grassrootsanalytics-nonprofit-accounts-intern-spring-2027-4724139006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, District of Columbia, United States | On-site |  | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-27 03:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-27 07:15 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
