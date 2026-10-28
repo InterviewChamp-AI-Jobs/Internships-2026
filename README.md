@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,010 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,011 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,010, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,011, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,010 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Axiommath](https://jobs.ashbyhq.com/axiommath)** | **[Member of Technical Staff Intern](https://interviewchamp.ai/jobs/axiommath-member-of-technical-staff-intern-bc494f2d-64d0-4f8e-a18a-3c9059d5940e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto | On-site |  | Oct 28 |
 | **[Graymatter Robotics](https://jobs.ashbyhq.com/graymatter-robotics)** | **[Robotics Engineering Intern\: Systems &amp; Applications - IMMEDIATE START](https://interviewchamp.ai/jobs/graymatter-robotics-robotics-engineering-intern-systems-applications-immediate-start-1cdbf03d-438b-46f8-808e-76fb6cfd4320?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles - HQ | On-site |  | Oct 28 |
 | **[Samsung Semiconductor](https://samsung.com)** | **[Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)](https://interviewchamp.ai/jobs/samsungsemiconductor-intern-thermal-modeling-simulation-engineer-ai-memory-hbm-8046859003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, California, United States | On-site |  | Oct 28 |
 | **[Samsung Semiconductor](https://samsung.com)** | **[Intern, RTL Power Macromodeling Engineer](https://interviewchamp.ai/jobs/samsungsemiconductor-intern-rtl-power-macromodeling-engineer-8046830003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, California, United States | On-site |  | Oct 28 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **2,010 are live right now.** This
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-software-engineer-ml-frameworks-and-efficiency-8287385?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA, USA | On-site |  | Oct 23 |
 | **[ID.me University Recruiting](https://job-boards.greenhouse.io/idmeuniversityrecruiting)** | **[Summer Intern 2027 - Analytics Engineer Intern](https://interviewchamp.ai/jobs/idmeuniversityrecruiting-summer-intern-2027-analytics-engineer-intern-8041991003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA | On-site |  | Oct 23 |
 | **[Walkerconsultants](https://jobs.lever.co/walkerconsultants)** | **[Marketing Data Management Intern](https://interviewchamp.ai/jobs/walkerconsultants-marketing-data-management-intern-4c5e401f-90d8-4b8e-a555-027220e3621e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Charlotte, NC | On-site |  | Oct 23 |
-| **[Shield AI](https://jobs.lever.co/shieldai)** | **[June 2027 Co-op - Reliability Engineering #5953](https://interviewchamp.ai/jobs/shieldai-june-2027-co-op-reliability-engineering-5953-bef440ce-0365-4de7-9b1e-b1288cdaf7f3?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, Washington | On-site |  | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-28 07:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-28 10:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
