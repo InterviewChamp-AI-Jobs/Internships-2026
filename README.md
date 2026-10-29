@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,026 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,027 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,026, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,027, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,026 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Arc Boat Company](https://job-boards.greenhouse.io/arcboatcompany)** | **[Manufacturing Engineering Intern](https://interviewchamp.ai/jobs/arcboatcompany-manufacturing-engineering-intern-5466630008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Oct 29 |
 | **[Etched](https://etched.com)** | **[Core Engineering Intern](https://interviewchamp.ai/jobs/etched-core-engineering-intern-494546ec-de37-46a2-b450-692c23b7b0c8?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Oct 29 |
 | **[Figma](https://figma.com)** | **[PhD Intern, Security Engineer (2027)](https://interviewchamp.ai/jobs/figma-phd-intern-security-engineer-2027-6238015004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA • New York, NY | On-site |  | Oct 29 |
 | **[Allen Control Systems](https://jobs.ashbyhq.com/allen-control-systems)** | **[Systems Engineering Intern, 2027](https://interviewchamp.ai/jobs/allen-control-systems-systems-engineering-intern-2027-9945f76d-6d03-45f0-b431-fc69d31f5476?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, TX | On-site |  | Oct 28 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **2,026 are live right now.** This
 | **[BGE Inc. Campus Recruiting](https://job-boards.greenhouse.io/bgeinccampus)** | **[TAMPA - Transportation, Internship](https://interviewchamp.ai/jobs/bgeinccampus-tampa-transportation-internship-5463345008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | 5426 Bay Center Dr., Suite 100, Tampa, Florida 33609 | On-site |  | Oct 26 |
 | **[Bridgewater Associates Campus Recruiting](https://job-boards.greenhouse.io/bridgewatercampusrecruiting)** | **[2028 Investment Associate Intern - Macro Research in Markets Immersion](https://interviewchamp.ai/jobs/bridgewatercampusrecruiting-2028-investment-associate-intern-macro-research-in-markets-immersion-8916612002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Oct 26 |
 | **[Bridgewater Associates Campus Recruiting](https://job-boards.greenhouse.io/bridgewatercampusrecruiting)** | **[2028 Investment Associate Intern - Hackathon Immersion](https://interviewchamp.ai/jobs/bridgewatercampusrecruiting-2028-investment-associate-intern-hackathon-immersion-8916615002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Oct 26 |
-| **[Bridgewater Associates Campus Recruiting](https://job-boards.greenhouse.io/bridgewatercampusrecruiting)** | **[2028 Investment Associate Intern - Macro Investing Immersion](https://interviewchamp.ai/jobs/bridgewatercampusrecruiting-2028-investment-associate-intern-macro-investing-immersion-8916600002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Oct 26 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-29 04:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 07:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
