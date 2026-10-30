@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,068 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,069 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,068, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,069, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,068 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Weather Perception](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-ms-phd-weather-perception-8335511?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA, USA | On-site |  | Oct 30 |
 | **[Fehr &amp; Peers](https://fehrandpeers.com)** | **[Transportation Internship (Summer 2027)](https://interviewchamp.ai/jobs/fehrandpeers-transportation-internship-summer-2027-7d7ae1aa-d77a-40d1-85d1-5ff71f91559a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, Washington | On-site |  | Oct 29 |
 | **[ACLU - Internships](https://job-boards.greenhouse.io/acluinternships)** | **[Spring 2027 Graduate Intern, Affiliate Support and Nationwide Initiatives - Organizational Management, Equity &amp; Inclusion](https://interviewchamp.ai/jobs/acluinternships-spring-2027-graduate-intern-affiliate-support-and-nationwide-initiatives-organizational-management-equity-inclusion-8923942002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 29 |
 | **[ACLU - Internships](https://job-boards.greenhouse.io/acluinternships)** | **[Spring 2027 Undergraduate Intern, Reproductive Freedom Campaigns- National Political Advocacy Department](https://interviewchamp.ai/jobs/acluinternships-spring-2027-undergraduate-intern-reproductive-freedom-campaigns-national-political-advocacy-department-8924060002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 29 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **2,068 are live right now.** This
 | **[Resurgent Industries](https://jobs.ashbyhq.com/resurgent-industries)** | **[Electrical Engineer (Entry-Level / Intern)](https://interviewchamp.ai/jobs/resurgent-industries-electrical-engineer-entry-level-intern-5c198a8e-a24b-4ecf-8a30-806e45a44706?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin | On-site |  | Oct 27 |
 | **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Electrical Engineering Intern, Hardware (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-electrical-engineering-intern-hardware-summer-2027-6116396004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
 | **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Product Design Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-product-design-engineering-intern-summer-2027-6141235004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
-| **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Engineering Intern, Wireless Automation and Test (Summer 2027)](https://interviewchamp.ai/jobs/hpiq-engineering-intern-wireless-automation-and-test-summer-2027-6114741004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-30 01:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 04:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
