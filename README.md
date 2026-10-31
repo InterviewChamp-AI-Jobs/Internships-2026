@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,148 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,150 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,148, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,150, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Internships from employers' own career pages. **2,148 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Enterprise Risk Management](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-enterprise-risk-management-fb3b174b-07ac-410d-9c44-53c70793635c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
+| **[Antares](https://jobs.ashbyhq.com/antares)** | **[Government Affairs Intern](https://interviewchamp.ai/jobs/antares-government-affairs-intern-0ba5a72f-35b5-451e-b05a-8f96c9d3101e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | DC | On-site |  | Oct 31 |
+| **[Capable](https://jobs.ashbyhq.com/capable)** | **[Chemistry Intern](https://interviewchamp.ai/jobs/capable-chemistry-intern-89475683-3915-4971-8c8c-19eeabb869ac?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 31 |
+| **[Fireworkhq](https://jobs.lever.co/fireworkhq)** | **[Data Engineer Intern](https://interviewchamp.ai/jobs/fireworkhq-data-engineer-intern-36722fbd-2705-4beb-83aa-1884068eaa09?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California | On-site |  | Oct 31 |
 | **[a16z](https://a16z.com)** | **[Research Intern, Frontier](https://interviewchamp.ai/jobs/a16z-research-intern-frontier-8046730003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Oct 30 |
 | **[Divergent](https://job-boards.greenhouse.io/divergent)** | **[Summer 2027 Business Intelligence Intern](https://interviewchamp.ai/jobs/divergent-summer-2027-business-intelligence-intern-5393519008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Oct 30 |
 | **[DB E.C.O. North America](https://job-boards.greenhouse.io/dbeconorthamerica)** | **[Consulting Intern (Rail and Transportation)](https://interviewchamp.ai/jobs/dbeconorthamerica-consulting-intern-rail-and-transportation-5462753008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Laguna Niguel, CA | On-site |  | Oct 30 |
@@ -178,11 +182,7 @@ Internships from employers' own career pages. **2,148 are live right now.** This
 | **[Schonfeld](https://job-boards.greenhouse.io/schonfeld)** | **[2027 DMFI Intern](https://interviewchamp.ai/jobs/schonfeld-2027-dmfi-intern-8324611?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Oct 28 |
 | **[Olsson](https://job-boards.greenhouse.io/olsson)** | **[Engineering Internship - Fire Protection](https://interviewchamp.ai/jobs/olsson-engineering-internship-fire-protection-5428797008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX; Tulsa, OK | On-site |  | Oct 28 |
 | **[Axiommath](https://jobs.ashbyhq.com/axiommath)** | **[Member of Technical Staff Intern](https://interviewchamp.ai/jobs/axiommath-member-of-technical-staff-intern-bc494f2d-64d0-4f8e-a18a-3c9059d5940e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto | On-site |  | Oct 28 |
-| **[Worldengine](https://jobs.ashbyhq.com/worldengine)** | **[Research Intern, Robotics Data &amp; Real-to-Sim](https://interviewchamp.ai/jobs/worldengine-research-intern-robotics-data-real-to-sim-ba22a6ae-9b75-4078-83c4-d908a29ccdd9?utm_source=github&utm_medium=referral&utm_campaign=internships)** | SF Bay Area | On-site |  | Oct 28 |
-| **[Graymatter Robotics](https://jobs.ashbyhq.com/graymatter-robotics)** | **[Robotics Engineering Intern\: Systems &amp; Applications - IMMEDIATE START](https://interviewchamp.ai/jobs/graymatter-robotics-robotics-engineering-intern-systems-applications-immediate-start-1cdbf03d-438b-46f8-808e-76fb6cfd4320?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles - HQ | On-site |  | Oct 28 |
-| **[Samsung Semiconductor](https://samsung.com)** | **[Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)](https://interviewchamp.ai/jobs/samsungsemiconductor-intern-thermal-modeling-simulation-engineer-ai-memory-hbm-8046859003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, California, United States | On-site |  | Oct 28 |
-| **[Loft Orbital](https://jobs.lever.co/loftorbital)** | **[Summer 2027 Internship – Satellite Programs](https://interviewchamp.ai/jobs/loftorbital-summer-2027-internship-satellite-programs-d49feb08-351a-4f03-84ba-948c8df633ab?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Golden, CO | On-site |  | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-31 01:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 04:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
