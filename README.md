@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,150 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,158 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,150, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,158, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,10 @@ Internships from employers' own career pages. **2,150 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Enterprise Risk Management](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-enterprise-risk-management-fb3b174b-07ac-410d-9c44-53c70793635c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
+| **[Sierra](https://jobs.ashbyhq.com/sierra)** | **[Research Intern](https://interviewchamp.ai/jobs/sierra-research-intern-ef896ee9-e903-4a1f-84c2-537373cb9081?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 31 |
+| **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Threat](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-threat-5acd8859-ba7f-4996-9503-13a231376758?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
+| **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Solutions](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-solutions-facb1a9a-67b3-42ca-90f1-65d934d9b68d?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
+| **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-systems-and-organizations-controls-soc-4e3b7ae3-cb18-4c76-815c-0014e3c7598c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
 | **[Antares](https://jobs.ashbyhq.com/antares)** | **[Government Affairs Intern](https://interviewchamp.ai/jobs/antares-government-affairs-intern-0ba5a72f-35b5-451e-b05a-8f96c9d3101e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | DC | On-site |  | Oct 31 |
 | **[Capable](https://jobs.ashbyhq.com/capable)** | **[Chemistry Intern](https://interviewchamp.ai/jobs/capable-chemistry-intern-89475683-3915-4971-8c8c-19eeabb869ac?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Oct 31 |
 | **[Fireworkhq](https://jobs.lever.co/fireworkhq)** | **[Data Engineer Intern](https://interviewchamp.ai/jobs/fireworkhq-data-engineer-intern-36722fbd-2705-4beb-83aa-1884068eaa09?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California | On-site |  | Oct 31 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **2,150 are live right now.** This
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Summer 2027](https://interviewchamp.ai/jobs/prizepicks-business-intelligence-intern-summer-2027-8047188003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Oct 28 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Research Intern - Paragon Health Institute](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-research-intern-paragon-health-institute-c7f72d66-cd23-4085-8b02-665793455aad?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Arlington, VA | On-site |  | Oct 28 |
 | **[STR](https://job-boards.greenhouse.io/systemstechnologyresearch)** | **[Graphic Design &amp; Technical Communications Co-Op](https://interviewchamp.ai/jobs/systemstechnologyresearch-graphic-design-technical-communications-co-op-4725252006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Woburn, MA | On-site |  | Oct 28 |
-| **[Schonfeld](https://job-boards.greenhouse.io/schonfeld)** | **[2027 DMFI Intern](https://interviewchamp.ai/jobs/schonfeld-2027-dmfi-intern-8324611?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Oct 28 |
-| **[Olsson](https://job-boards.greenhouse.io/olsson)** | **[Engineering Internship - Fire Protection](https://interviewchamp.ai/jobs/olsson-engineering-internship-fire-protection-5428797008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX; Tulsa, OK | On-site |  | Oct 28 |
-| **[Axiommath](https://jobs.ashbyhq.com/axiommath)** | **[Member of Technical Staff Intern](https://interviewchamp.ai/jobs/axiommath-member-of-technical-staff-intern-bc494f2d-64d0-4f8e-a18a-3c9059d5940e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Palo Alto | On-site |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-31 04:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 07:22 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
