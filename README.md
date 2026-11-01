@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,156 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,158 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,156, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,158, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **2,156 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[National Institute of Standards and Technology](https://www.usajobs.gov)** | **[Summer High-school Intern Program (SHIP) -Gaithersburg, MD (Volunteer; STEM Fields)](https://interviewchamp.ai/jobs/national-institute-of-standards-and-technology-usajobs-summer-high-school-intern-program-ship-gaithersburg-md-volunteer-stem-fields-891154500?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Gaithersburg, Maryland | On-site |  | Oct 31 |
+| **[National Institute of Standards and Technology](https://www.usajobs.gov)** | **[Summer High-school Intern Program (SHIP) - Boulder, CO (Volunteer; STEM Fields)](https://interviewchamp.ai/jobs/national-institute-of-standards-and-technology-usajobs-summer-high-school-intern-program-ship-boulder-co-volunteer-stem-fields-891154800?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boulder, Colorado | On-site |  | Oct 31 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/clera-founders-associate-intern-41248971-00e4-4d69-9be7-46d382fba02e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $80k–$110k | Oct 31 |
 | **[Sierra](https://jobs.ashbyhq.com/sierra)** | **[Research Intern](https://interviewchamp.ai/jobs/sierra-research-intern-ef896ee9-e903-4a1f-84c2-537373cb9081?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Oct 31 |
 | **[Tevora](https://jobs.lever.co/tevora)** | **[Cybersecurity Internship Summer 2027 - Threat](https://interviewchamp.ai/jobs/tevora-cybersecurity-internship-summer-2027-threat-5acd8859-ba7f-4996-9503-13a231376758?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irvine, CA | On-site |  | Oct 31 |
@@ -180,9 +182,7 @@ Internships from employers' own career pages. **2,156 are live right now.** This
 | **[AccuWeather Careers](https://job-boards.greenhouse.io/accuweather)** | **[Human Resources Intern](https://interviewchamp.ai/jobs/accuweather-human-resources-intern-8331085?utm_source=github&utm_medium=referral&utm_campaign=internships)** | State College, PA | On-site |  | Oct 28 |
 | **[Horace Mann](https://job-boards.greenhouse.io/horacemannservicecorporation)** | **[Intern - Temporary](https://interviewchamp.ai/jobs/horacemannservicecorporation-intern-temporary-6236091004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 28 |
 | **[Horace Mann](https://job-boards.greenhouse.io/horacemannservicecorporation)** | **[Intern - Temporary](https://interviewchamp.ai/jobs/horacemannservicecorporation-intern-temporary-6236094004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Remote | Remote |  | Oct 28 |
-| **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Summer 2027](https://interviewchamp.ai/jobs/prizepicks-business-intelligence-intern-summer-2027-8047188003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia, United States | On-site |  | Oct 28 |
-| **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Research Intern - Paragon Health Institute](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-research-intern-paragon-health-institute-c7f72d66-cd23-4085-8b02-665793455aad?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Arlington, VA | On-site |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-10-31 21:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-01 06:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
