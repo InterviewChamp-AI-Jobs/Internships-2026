@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,300 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,306 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,300, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,306, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Internships from employers' own career pages. **2,300 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Hoyoverse](https://jobs.ashbyhq.com/hoyoverse)** | **[Research Scientist Intern - Video Generation](https://interviewchamp.ai/jobs/hoyoverse-research-scientist-intern-video-generation-432bf860-11c1-4a8f-92a1-b3773ac42280?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View | On-site |  | Nov 6 |
+| **[ASM](https://www.asm.com)** | **[Intern, Product Intelligence Engineering (AI/ML)](https://interviewchamp.ai/jobs/asm-intern-product-intelligence-engineering-ai-ml-5029228101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US &gt; Arizona &gt; Phoenix | On-site |  | Nov 6 |
+| **[ASM](https://www.asm.com)** | **[Intern, Mechanical Engineering](https://interviewchamp.ai/jobs/asm-intern-mechanical-engineering-5029222101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US &gt; Arizona &gt; Phoenix | On-site |  | Nov 6 |
+| **[ASM](https://www.asm.com)** | **[Intern, Electrical Engineering](https://interviewchamp.ai/jobs/asm-intern-electrical-engineering-5029220101?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US &gt; Arizona &gt; Phoenix | On-site |  | Nov 6 |
+| **[Etched](https://etched.com)** | **[Infrastructure Engineering &amp; Projects Intern](https://interviewchamp.ai/jobs/etched-infrastructure-engineering-projects-intern-1a92048c-60e0-445b-a84e-8f008f1cf47b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose | On-site |  | Nov 6 |
 | **[Raft Company Website](https://job-boards.greenhouse.io/raft)** | **[Full Stack Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/raft-full-stack-engineering-intern-summer-2027-6240549004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | McLean, Virginia | On-site |  | Nov 6 |
 | **[Raft Company Website](https://job-boards.greenhouse.io/raft)** | **[AI/ML Intern - Summer 2027](https://interviewchamp.ai/jobs/raft-ai-ml-intern-summer-2027-6240555004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | McLean, Virginia, United States | On-site |  | Nov 6 |
 | **[Raft Company Website](https://job-boards.greenhouse.io/raft)** | **[Data Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/raft-data-engineering-intern-summer-2027-6239800004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | McLean, Virginia | On-site |  | Nov 6 |
@@ -177,12 +182,7 @@ Internships from employers' own career pages. **2,300 are live right now.** This
 | **[Stratolaunch](https://stratolaunch.com)** | **[People Team Intern- Summer 2027](https://interviewchamp.ai/jobs/stratolaunch-people-team-intern-summer-2027-5470814008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mojave, California, United States | On-site |  | Nov 3 |
 | **[Formlabs](https://formlabs.com)** | **[Print Production Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-print-production-intern-winter-spring-2027-8337242?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Nov 3 |
 | **[Fussball Club Cincinnati LLC (“FC Cincinnati”)](https://job-boards.greenhouse.io/fccincinnati)** | **[Athletic Development Intern](https://interviewchamp.ai/jobs/fccincinnati-athletic-development-intern-8177629003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cincinnati, OH | On-site |  | Nov 3 |
-| **[AMOREPACIFIC US, INC](https://job-boards.greenhouse.io/amorepacificusinc)** | **[Talent Acquisition Intern](https://interviewchamp.ai/jobs/amorepacificusinc-talent-acquisition-intern-4476836009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Nov 3 |
-| **[Lincoln International](http://www.lincolninternational.com)** | **[2028 Summer Analyst Intern \| PFA](https://interviewchamp.ai/jobs/lincolninternational-2028-summer-analyst-intern-pfa-8348513?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site | From $110k | Nov 3 |
-| **[BGE Inc. Campus Recruiting](https://job-boards.greenhouse.io/bgeinccampus)** | **[AUSTIN - Public Works, Internship](https://interviewchamp.ai/jobs/bgeinccampus-austin-public-works-internship-5349735008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | 1701 Directors Blvd., Suite 1000, Austin, Texas 78744 | On-site |  | Nov 3 |
-| **[BGE, Inc](https://job-boards.greenhouse.io/bgeinc)** | **[AUSTIN - Public Works, Internship](https://interviewchamp.ai/jobs/bgeinc-austin-public-works-internship-5349734008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | 1701 Directors Blvd., Suite 1000, Austin, Texas 78744 | On-site |  | Nov 3 |
-| **[Lincoln International](http://www.lincolninternational.com)** | **[2028 Summer Analyst Intern \| CAG](https://interviewchamp.ai/jobs/lincolninternational-2028-summer-analyst-intern-cag-8348492?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, IL; New York, NY; Los Angeles, CA | On-site | From $110k | Nov 3 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-06 01:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-06 11:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
