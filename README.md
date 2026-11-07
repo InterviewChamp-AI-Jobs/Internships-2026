@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,345 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,344 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,345, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,344, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,345 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Growth &amp; Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-bb423c6c-3d23-431f-875e-9240f17cb83b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 7 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-2b7aaf17-480b-4fc2-8af6-0da8e0e58781?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 7 |
 | **[Category Labs](https://jobs.ashbyhq.com/category-labs)** | **[Research Intern, Summer 2027](https://interviewchamp.ai/jobs/category-labs-research-intern-summer-2027-248a6400-c18e-4627-9c8c-1b1054869075?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York (Remote) | Remote |  | Nov 7 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[2027 Summer Intern - Supplier Development Engineer - 6463](https://interviewchamp.ai/jobs/shieldai-2027-summer-intern-supplier-development-engineer-6463-a2bb6f71-abcf-4938-a3a2-803b5d7c0753?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, Texas | On-site |  | Nov 7 |
@@ -127,7 +128,6 @@ Internships from employers' own career pages. **2,345 are live right now.** This
 | **[KEEN Footwear](https://www.keenfootwear.com)** | **[Footwear Design Intern](https://interviewchamp.ai/jobs/keenfootwear-footwear-design-intern-4751551005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Portland, OR | On-site |  | Nov 5 |
 | **[Hearst](https://job-boards.greenhouse.io/hearst)** | **[WGAL News Intern - 2027 Spring](https://interviewchamp.ai/jobs/hearst-wgal-news-intern-2027-spring-4472833009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lancaster, PA, United States | On-site |  | Nov 5 |
 | **[Trove Brands](https://job-boards.greenhouse.io/trovebrands)** | **[Part-Time Human Resources Intern](https://interviewchamp.ai/jobs/trovebrands-part-time-human-resources-intern-4482578009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lehi, UT | On-site |  | Nov 5 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Computer Vision &amp; Robotics Intern](https://interviewchamp.ai/jobs/clera-computer-vision-robotics-intern-335d1ca9-1fda-45d3-9756-122324acbabb?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 5 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[June 2027 Co-Op - Software Engineer Intern](https://interviewchamp.ai/jobs/shieldai-june-2027-co-op-software-engineer-intern-db8fc063-8856-4404-991c-f287712de949?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, Texas | On-site |  | Nov 5 |
 | **[Blockhouse](https://jobs.ashbyhq.com/blockhouse)** | **[Accounting Intern](https://interviewchamp.ai/jobs/blockhouse-accounting-intern-ffd954f2-ab2d-4a88-a15b-d77dfa05839a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City Area (Remote) | Remote |  | Nov 5 |
 | **[Lumbermen's](https://job-boards.greenhouse.io/lumbermens)** | **[Industrial Engineer Internship](https://interviewchamp.ai/jobs/lumbermens-industrial-engineer-internship-5474347008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Byron Center, MI | On-site |  | Nov 5 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,345 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-07 17:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-07 22:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
