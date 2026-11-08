@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,344 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,346 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,344, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,346, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,8 +32,9 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Strategic Operations Intern](https://interviewchamp.ai/jobs/clera-strategic-operations-intern-32723318-ef67-4c80-9e40-8818274bb8cf?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 8 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/clera-founders-associate-intern-6fd99c50-da91-459c-bbb3-f2642e69f9a2?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $80k–$110k | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-5c1f661e-9c3a-4cca-bd47-ba792ded5f3b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 8 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Growth &amp; Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-bb423c6c-3d23-431f-875e-9240f17cb83b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 7 |
 | **[Category Labs](https://jobs.ashbyhq.com/category-labs)** | **[Research Intern, Summer 2027](https://interviewchamp.ai/jobs/category-labs-research-intern-summer-2027-248a6400-c18e-4627-9c8c-1b1054869075?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York (Remote) | Remote |  | Nov 7 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[2027 Summer Intern - Supplier Development Engineer - 6463](https://interviewchamp.ai/jobs/shieldai-2027-summer-intern-supplier-development-engineer-6463-a2bb6f71-abcf-4938-a3a2-803b5d7c0753?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, Texas | On-site |  | Nov 7 |
 | **[Zoox](https://zoox.com)** | **[AI Workflows &amp; Safety Decision Making Intern \[2027\]](https://interviewchamp.ai/jobs/zoox-ai-workflows-safety-decision-making-intern-2027-0168ad29-2fd8-4c91-865c-b9fff8aa30c1?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 7 |
@@ -75,7 +76,6 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 | **[Skydio](https://skydio.com)** | **[UX Product Design Intern - Winter 2027](https://interviewchamp.ai/jobs/skydio-ux-product-design-intern-winter-2027-1f3826bd-12da-41c5-a8ad-7b4efc9483b1?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California, United States (Remote) | Remote |  | Nov 6 |
 | **[Rush Street Interactive](https://job-boards.greenhouse.io/rushstreetinteractive)** | **[Player Support Internship- Spring 2027](https://interviewchamp.ai/jobs/rushstreetinteractive-player-support-internship-spring-2027-6251554004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New Jersey | On-site |  | Nov 6 |
 | **[Cloudflare](https://cloudflare.com)** | **[People Team Intern, HR Transformation (Winter 2027)](https://interviewchamp.ai/jobs/cloudflare-people-team-intern-hr-transformation-winter-2027-8350166?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, TX, United States; San Francisco, CA, United States | On-site |  | Nov 6 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[GTM Intern](https://interviewchamp.ai/jobs/clera-gtm-intern-0fdebd67-d314-4cbe-a7ec-75e00930ce62?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $48k–$72k | Nov 6 |
 | **[Niural](https://jobs.ashbyhq.com/Niural)** | **[AI Product Operator Intern](https://interviewchamp.ai/jobs/niural-ai-product-operator-intern-0daacf58-a15d-4c6f-bfa0-0fc069e4956e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Nov 6 |
 | **[Samsara](https://samsara.com)** | **[Software Engineering Internship - San Francisco](https://interviewchamp.ai/jobs/samsara-software-engineering-internship-san-francisco-8358786?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco - SF9 | On-site |  | Nov 6 |
 | **[Monumental Sports &amp; Entertainment](https://job-boards.greenhouse.io/monumentalsports)** | **[Internship\: Events Services (Part-Time/Seasonal)](https://interviewchamp.ai/jobs/monumentalsports-internship-events-services-part-time-seasonal-5287399007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Fairfax, VA 22030 | On-site |  | Nov 6 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-08 13:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 19:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
