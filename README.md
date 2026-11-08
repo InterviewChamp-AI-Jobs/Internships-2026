@@ -32,8 +32,8 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-5c1f661e-9c3a-4cca-bd47-ba792ded5f3b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Growth &amp; Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-bb423c6c-3d23-431f-875e-9240f17cb83b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 7 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-2b7aaf17-480b-4fc2-8af6-0da8e0e58781?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 7 |
 | **[Category Labs](https://jobs.ashbyhq.com/category-labs)** | **[Research Intern, Summer 2027](https://interviewchamp.ai/jobs/category-labs-research-intern-summer-2027-248a6400-c18e-4627-9c8c-1b1054869075?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York (Remote) | Remote |  | Nov 7 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[2027 Summer Intern - Supplier Development Engineer - 6463](https://interviewchamp.ai/jobs/shieldai-2027-summer-intern-supplier-development-engineer-6463-a2bb6f71-abcf-4938-a3a2-803b5d7c0753?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, Texas | On-site |  | Nov 7 |
 | **[Zoox](https://zoox.com)** | **[AI Workflows &amp; Safety Decision Making Intern \[2027\]](https://interviewchamp.ai/jobs/zoox-ai-workflows-safety-decision-making-intern-2027-0168ad29-2fd8-4c91-865c-b9fff8aa30c1?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 7 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-07 22:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 06:22 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
