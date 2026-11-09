@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,344 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,343 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,344, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,343, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Texas AirSystems](https://job-boards.greenhouse.io/texasairsystems)** | **[HVAC Sales Engineer Rotational Internship](https://interviewchamp.ai/jobs/texasairsystems-hvac-sales-engineer-rotational-internship-5476528008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Irving, Texas, United States | On-site |  | Nov 9 |
+| **[Veterans Benefits Administration](https://www.usajobs.gov)** | **[Student Trainee (Vocational Rehabilitation Counselor) Internship Program](https://interviewchamp.ai/jobs/veterans-benefits-administration-usajobs-student-trainee-vocational-rehabilitation-counselor-internship-program-892051300?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Anchorage, Alaska; Phoenix, Arizona; Los Angeles, California (+36 more) | On-site | $50,460–$82,007 | Nov 9 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Strategic Operations Intern](https://interviewchamp.ai/jobs/clera-strategic-operations-intern-32723318-ef67-4c80-9e40-8818274bb8cf?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/clera-founders-associate-intern-6fd99c50-da91-459c-bbb3-f2642e69f9a2?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $80k–$110k | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-5c1f661e-9c3a-4cca-bd47-ba792ded5f3b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 8 |
@@ -180,9 +182,7 @@ Internships from employers' own career pages. **2,344 are live right now.** This
 | **[ARCO Companies](https://job-boards.greenhouse.io/arco)** | **[Construction Project Manager Intern or Co-op (2027)](https://interviewchamp.ai/jobs/arco-construction-project-manager-intern-or-co-op-2027-4479411009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Greenville, SC, US | On-site |  | Nov 4 |
 | **[ARCO Design/Build](https://job-boards.greenhouse.io/arcodb)** | **[Construction Project Manager Intern or Co-op (2027)](https://interviewchamp.ai/jobs/arcodb-construction-project-manager-intern-or-co-op-2027-4479392009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Greenville, SC, US | On-site |  | Nov 4 |
 | **[Stand Together](https://jobs.lever.co/standtogether)** | **[KIP Spring 2027 - Government Affairs Intern - Georgia Public Policy Foundation](https://interviewchamp.ai/jobs/standtogether-kip-spring-2027-government-affairs-intern-georgia-public-policy-foundation-17f7deed-fe8b-4c21-bb1d-67158e8c3a4a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, Georgia | On-site |  | Nov 4 |
-| **[Pinterest](https://pinterest.com)** | **[Content Enablement Intern 2027 (USA)](https://interviewchamp.ai/jobs/pinterest-content-enablement-intern-2027-usa-8334884?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA, US; Remote, US | Remote |  | Nov 4 |
-| **[MetOx International, Inc.](https://job-boards.greenhouse.io/metoxinternationalinc)** | **[Mechanical Engineering Co-Op/Intern (Summer &amp; Fall 2027)](https://interviewchamp.ai/jobs/metoxinternationalinc-mechanical-engineering-co-op-intern-summer-fall-2027-5471476008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Houston, TX | On-site |  | Nov 4 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-09 01:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-09 11:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
