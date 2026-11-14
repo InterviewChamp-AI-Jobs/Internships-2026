@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,473 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,469 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,473, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,469, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,473 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Syntax](https://jobs.lever.co/syntax)** | **[Index Analyst Intern (Summer 2027)](https://interviewchamp.ai/jobs/syntax-index-analyst-intern-summer-2027-75c16db8-4cfd-4d7c-98b0-c9153e2034fe?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | Hybrid |  | Nov 14 |
 | **[Zoox](https://zoox.com)** | **[Feature Integration Intern \[Summer 2027\]](https://interviewchamp.ai/jobs/zoox-feature-integration-intern-summer-2027-2e4e91c3-f127-4c5b-9291-b93b8a340a2f?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 14 |
 | **[The Allen Institute for Artificial Intelligence](https://allenai.org)** | **[Research Internship, AI for Neuroscience](https://interviewchamp.ai/jobs/thealleninstitute-research-internship-ai-for-neuroscience-8293636?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, WA | On-site | From $94.3k | Nov 13 |
 | **[Southern Poverty Law Center](https://job-boards.greenhouse.io/southernpovertylawcenter)** | **[Intern, Design (Summer 2027)](https://interviewchamp.ai/jobs/southernpovertylawcenter-intern-design-summer-2027-8943360002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Atlanta, GA; Jackson, MS; New Orleans, LA; Miami, FL; Montgomery, AL; Washington, D.C. | On-site |  | Nov 13 |
@@ -77,7 +78,6 @@ Internships from employers' own career pages. **2,473 are live right now.** This
 | **[Strand Therapeutics](https://job-boards.greenhouse.io/strandtherapeutics)** | **[Co-op, mRNA Process Development](https://interviewchamp.ai/jobs/strandtherapeutics-co-op-mrna-process-development-6254267004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, Massachusetts | On-site |  | Nov 13 |
 | **[Mindgruve](https://mindgruve.com)** | **[Intern- Account Management](https://interviewchamp.ai/jobs/mindgruve-intern-account-management-5294468007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Covington, KY | On-site |  | Nov 13 |
 | **[Minitab](https://minitab.com)** | **[Research &amp; Design Intern](https://interviewchamp.ai/jobs/minitab-research-design-intern-8200707003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | State College, Pennsylvania, United States | On-site |  | Nov 13 |
-| **[Shield AI](https://jobs.lever.co/shieldai)** | **[2027 Summer Intern - Future Concepts - 6539](https://interviewchamp.ai/jobs/shieldai-2027-summer-intern-future-concepts-6539-cf89556f-a5ea-4a3a-81c7-944890f76ade?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington, D.C. | On-site |  | Nov 13 |
 | **[Lightmatter](https://lightmatter.com)** | **[Quality &amp; Reliability, Intern Summer 2027](https://interviewchamp.ai/jobs/lightmatter-quality-reliability-intern-summer-2027-5474812008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA | On-site |  | Nov 13 |
 | **[Zoox](https://zoox.com)** | **[Industrial Design Intern \[Summer 2027\]](https://interviewchamp.ai/jobs/zoox-industrial-design-intern-summer-2027-23867c45-d2df-4f87-86ff-244c864614cd?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 13 |
 | **[Leveragedmedia](https://jobs.ashbyhq.com/leveragedmedia)** | **[Influencer Marketing Intern - Spring 2026](https://interviewchamp.ai/jobs/leveragedmedia-influencer-marketing-intern-spring-2026-1b4c9713-c91f-4c6c-acfa-718b61790834?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Nov 12 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,473 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-14 10:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-14 18:20 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
