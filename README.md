@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,469 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,468 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,469, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,468, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **2,469 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-f5dc2946-1e1f-4e60-9219-808cba43bc4a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 14 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Growth &amp; Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-1798e957-ca09-4252-b639-a0a1073afabc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 14 |
 | **[Syntax](https://jobs.lever.co/syntax)** | **[Index Analyst Intern (Summer 2027)](https://interviewchamp.ai/jobs/syntax-index-analyst-intern-summer-2027-75c16db8-4cfd-4d7c-98b0-c9153e2034fe?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | Hybrid |  | Nov 14 |
 | **[Zoox](https://zoox.com)** | **[Feature Integration Intern \[Summer 2027\]](https://interviewchamp.ai/jobs/zoox-feature-integration-intern-summer-2027-2e4e91c3-f127-4c5b-9291-b93b8a340a2f?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 14 |
 | **[The Allen Institute for Artificial Intelligence](https://allenai.org)** | **[Research Internship, AI for Neuroscience](https://interviewchamp.ai/jobs/thealleninstitute-research-internship-ai-for-neuroscience-8293636?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, WA | On-site | From $94.3k | Nov 13 |
@@ -148,7 +150,6 @@ Internships from employers' own career pages. **2,469 are live right now.** This
 | **[Castelion Corporation](https://job-boards.greenhouse.io/castelioncorporation)** | **[Propulsion Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/castelioncorporation-propulsion-engineering-intern-summer-2027-4503740009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, CA | On-site |  | Nov 11 |
 | **[Reframe Systems](https://jobs.ashbyhq.com/reframesystems)** | **[Business Operations Associate (January 2027 Co-op)](https://interviewchamp.ai/jobs/reframesystems-business-operations-associate-january-2027-co-op-5e231b88-2d08-4236-9b7a-7024d1d37fe9?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Billerica, MA (Remote) | Remote |  | Nov 11 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[GTM Intern](https://interviewchamp.ai/jobs/clera-gtm-intern-6bf4fbc8-c8c4-4871-b232-fd3a88ba4efc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 11 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founder Associate Intern](https://interviewchamp.ai/jobs/clera-founder-associate-intern-8704a729-c3bb-463e-8ff0-08e455176709?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 11 |
 | **[Formlabs](https://formlabs.com)** | **[2027 (Summer) - Manufacturing - Manufacturing Test Software Intern](https://interviewchamp.ai/jobs/formlabs-2027-summer-manufacturing-manufacturing-test-software-intern-8374598?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Nov 11 |
 | **[Tandh](https://jobs.lever.co/tandh)** | **[Water Resources Intern](https://interviewchamp.ai/jobs/tandh-water-resources-intern-7afeda07-6d47-445e-823b-00a7c8aacc3a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mount Pleasant, South Carolina | On-site |  | Nov 11 |
 | **[Schneider Downs](https://job-boards.greenhouse.io/schneiderdowns)** | **[2028 Tax Winter Intern](https://interviewchamp.ai/jobs/schneiderdowns-2028-tax-winter-intern-4483136009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Columbus, Ohio, United States | On-site |  | Nov 11 |
@@ -167,7 +168,6 @@ Internships from employers' own career pages. **2,469 are live right now.** This
 | **[Skydio](https://skydio.com)** | **[Middleware Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/skydio-middleware-software-engineer-intern-summer-2027-c85af510-9fe4-4167-a914-c3ab344bef03?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, California, United States (Remote) | Remote |  | Nov 10 |
 | **[Tower Research Capital](https://www.tower-research.com)** | **[Finance Intern](https://interviewchamp.ai/jobs/towerresearchcapital-finance-intern-8372658?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Nov 10 |
 | **[Tomjames](https://jobs.lever.co/tomjames)** | **[Semester Sales Internship - U of Wisconsin Eau Claire](https://interviewchamp.ai/jobs/tomjames-semester-sales-internship-u-of-wisconsin-eau-claire-39a767ce-51db-456d-96a4-b598c21e36ad?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Eau Claire, WI | Hybrid |  | Nov 10 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[GTM Intern](https://interviewchamp.ai/jobs/clera-gtm-intern-b82f41b1-c858-447a-a7ca-d04f9c9eb8ea?utm_source=github&utm_medium=referral&utm_campaign=internships)** | California | On-site |  | Nov 10 |
 | **[InterSystems](https://job-boards.greenhouse.io/intersystems)** | **[Technical Services Co-op](https://interviewchamp.ai/jobs/intersystems-technical-services-co-op-8200550003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA | On-site |  | Nov 10 |
 | **[Formlabs](https://formlabs.com)** | **[Global Sourcing Intern (Summer 2027)](https://interviewchamp.ai/jobs/formlabs-global-sourcing-intern-summer-2027-8161800?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Nov 10 |
 | **[Samsara](https://samsara.com)** | **[Electrical Engineering Co-Op](https://interviewchamp.ai/jobs/samsara-electrical-engineering-co-op-8226608?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco - SF9 | On-site |  | Nov 10 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,469 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-14 18:20 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-14 22:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
