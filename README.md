@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,468 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Eightsleep](https://jobs.ashbyhq.com/eightsleep)** | **[Short-Term Firmware Intern](https://interviewchamp.ai/jobs/eightsleep-short-term-firmware-intern-8da94996-2820-4964-b2b8-0ed151dd4f1b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 14 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-f5dc2946-1e1f-4e60-9219-808cba43bc4a?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 14 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Growth &amp; Marketing Intern / New Grad](https://interviewchamp.ai/jobs/clera-growth-marketing-intern-new-grad-1798e957-ca09-4252-b639-a0a1073afabc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 14 |
 | **[Syntax](https://jobs.lever.co/syntax)** | **[Index Analyst Intern (Summer 2027)](https://interviewchamp.ai/jobs/syntax-index-analyst-intern-summer-2027-75c16db8-4cfd-4d7c-98b0-c9153e2034fe?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | Hybrid |  | Nov 14 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **2,468 are live right now.** This
 | **[Art of Problem Solving](https://artofproblemsolving.com)** | **[Computer Science Curriculum Intern](https://interviewchamp.ai/jobs/artofproblemsolving-computer-science-curriculum-intern-8199446003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Diego, California, United States | On-site |  | Nov 10 |
 | **[Parspec](https://jobs.ashbyhq.com/parspec)** | **[Product Management Intern, Agentic AI](https://interviewchamp.ai/jobs/parspec-product-management-intern-agentic-ai-aa7b7f63-b31f-47fa-a711-b76d93028e56?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Hybrid - San Mateo, California | Hybrid |  | Nov 10 |
 | **[Palantir](https://palantir.com)** | **[Software Engineer, Intern - Connectivity Platform and Product](https://interviewchamp.ai/jobs/palantir-software-engineer-intern-connectivity-platform-and-product-eb496d6a-a960-43d3-a09b-e3843052f54e?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Denver, CO | On-site |  | Nov 10 |
-| **[Addepar](https://addepar.com)** | **[Data Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/addepar1-data-engineering-intern-summer-2027-8910327002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | On-site |  | Nov 10 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-14 22:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-15 06:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
