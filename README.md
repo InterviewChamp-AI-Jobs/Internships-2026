@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,477 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,472 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,477, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,472, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Internships from employers' own career pages. **2,477 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[airbnb](https://airbnb.com)** | **[Software Engineering Intern (BS/MS)](https://interviewchamp.ai/jobs/airbnb-software-engineering-intern-bs-ms-8360478?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, California | On-site |  | Nov 18 |
+| **[Murray Company](https://murrayco.bamboohr.com)** | **[Construction Project Engineer Intern – Summer 2027](https://interviewchamp.ai/jobs/murrayco-construction-project-engineer-intern-summer-2027-85?utm_source=github&utm_medium=referral&utm_campaign=internships)** | St. Louis, Missouri, United States | On-site |  | Nov 18 |
+| **[Injective](https://jobs.ashbyhq.com/injective)** | **[Social Media Intern](https://interviewchamp.ai/jobs/injective-social-media-intern-f4d860db-f39d-48ce-9d5d-e0036e2696e6?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York | On-site |  | Nov 17 |
+| **[Illumio](https://illumio.com)** | **[Security and Compliance Analyst Intern](https://interviewchamp.ai/jobs/illumio-security-and-compliance-analyst-intern-8013747a-938c-41ef-9d5b-7b6188ae0b5c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Sunnyvale, California - HQ | On-site |  | Nov 17 |
 | **[DH Pace](https://job-boards.greenhouse.io/dhpace)** | **[National Accounts Summer Intern (Paid &amp; Full-Time)](https://interviewchamp.ai/jobs/dhpace-national-accounts-summer-intern-paid-full-time-5480205008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Olathe KS | On-site |  | Nov 17 |
 | **[Toyota Research Institute](https://tri.global)** | **[Future Product Innovation Research Intern, Computational Cognitive Science](https://interviewchamp.ai/jobs/tri-future-product-innovation-research-intern-computational-cognitive-science-0d74ff26-05cc-4616-bda0-97d821c9452b?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Altos, CA | Hybrid |  | Nov 17 |
 | **[The Riverside Company](https://job-boards.greenhouse.io/theriversidecompany)** | **[2027 Summer Internship, Fund Administration](https://interviewchamp.ai/jobs/theriversidecompany-2027-summer-internship-fund-administration-8949043002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Cleveland, OH | On-site |  | Nov 17 |
@@ -65,7 +69,6 @@ Internships from employers' own career pages. **2,477 are live right now.** This
 | **[Basis Research Institute](https://jobs.ashbyhq.com/basis-research)** | **[Research Intern, Summer 2027](https://interviewchamp.ai/jobs/basis-research-research-intern-summer-2027-efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York Office | On-site | $100k | Nov 17 |
 | **[Strategic Mission Critical](https://job-boards.greenhouse.io/strategicmissioncritical)** | **[Virtual Design &amp; Construction (VDC) Internship](https://interviewchamp.ai/jobs/strategicmissioncritical-virtual-design-construction-vdc-internship-4510510009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX | On-site |  | Nov 17 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Program Manager, Intern Experience](https://interviewchamp.ai/jobs/shield-program-manager-intern-experience-af061c1a-f291-4540-be30-2df5adc22cc5?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, WA, US | On-site | $115k–$208k | Nov 17 |
-| **[Convergent Research](https://jobs.lever.co/convergentresearch)** | **[Mass Spectrometry Lab Operations Co-op](https://interviewchamp.ai/jobs/convergentresearch-mass-spectrometry-lab-operations-co-op-8e18a28c-01de-4514-abe1-92b1f7aa7e90?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Watertown, MA | On-site |  | Nov 17 |
 | **[Union Technologies](https://jobs.ashbyhq.com/union-tech)** | **[Manufacturing Engineering Spring Internship](https://interviewchamp.ai/jobs/union-tech-manufacturing-engineering-spring-internship-72dd1a3e-ce3e-4b62-8c4c-75bb4215272c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX | On-site |  | Nov 17 |
 | **[Four Hands](https://job-boards.greenhouse.io/fourhands)** | **[Marketing Intern](https://interviewchamp.ai/jobs/fourhands-marketing-intern-4509551009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Austin, TX | On-site |  | Nov 17 |
 | **[Socket](https://jobs.ashbyhq.com/socket)** | **[Research Intern](https://interviewchamp.ai/jobs/socket-research-intern-7b97ecb2-2fc6-4895-b8d9-7ce4174322e2?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States (Remote) | Remote |  | Nov 17 |
@@ -179,10 +182,7 @@ Internships from employers' own career pages. **2,477 are live right now.** This
 | **[Zoox](https://zoox.com)** | **[Industrial Design Intern \[Summer 2027\]](https://interviewchamp.ai/jobs/zoox-industrial-design-intern-summer-2027-23867c45-d2df-4f87-86ff-244c864614cd?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Foster City, CA | Hybrid |  | Nov 13 |
 | **[Leveragedmedia](https://jobs.ashbyhq.com/leveragedmedia)** | **[Influencer Marketing Intern - Spring 2026](https://interviewchamp.ai/jobs/leveragedmedia-influencer-marketing-intern-spring-2026-1b4c9713-c91f-4c6c-acfa-718b61790834?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York City | On-site |  | Nov 12 |
 | **[Muon Space](https://muonspace.com)** | **[Software Engineering Intern-Information Systems (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-software-engineering-intern-information-systems-summer-2027-5293973007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Jose, CA | On-site |  | Nov 12 |
-| **[Muon Space](https://muonspace.com)** | **[Security Engineering Intern (Summer 2027)](https://interviewchamp.ai/jobs/muonspace-security-engineering-intern-summer-2027-5294028007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA | On-site |  | Nov 12 |
-| **[ChargePoint](https://www.chargepoint.com)** | **[Power Electronics Engineer Intern](https://interviewchamp.ai/jobs/chargepoint-power-electronics-engineer-intern-8928792002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | US-CA-Campbell-254 | On-site |  | Nov 12 |
-| **[Meshy](https://meshy.ai)** | **[Community Intern](https://interviewchamp.ai/jobs/meshy-community-intern-f533cc7d-902d-4dd9-8337-4f0eb0c78786?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Bay Area Office | On-site |  | Nov 12 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-18 01:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-18 11:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
