@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,570 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,571 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,570, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,571, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,9 @@ Internships from employers' own career pages. **2,570 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Firmware/Embedded Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-firmware-embedded-software-engineer-intern-summer-2027-5278981007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Mechanical Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-mechanical-engineer-intern-summer-2027-4648209007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Electrical Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-electrical-engineering-intern-summer-2027-5273149007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
-| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Autonomy Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-autonomy-intern-summer-2027-5273167007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-ogilvy-creative-summer-internship-4757364005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, United States | On-site |  | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-ogilvy-creative-summer-internship-4757353005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 The Ogilvy Group General Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-the-ogilvy-group-general-summer-internship-4757341005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, United States | On-site |  | Nov 21 |
@@ -185,4 +185,4 @@ Internships from employers' own career pages. **2,570 are live right now.** This
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-22 01:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-22 11:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
