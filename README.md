@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,564 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,570 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,564, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,570, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,12 @@ Internships from employers' own career pages. **2,564 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Mechanical Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-mechanical-engineer-intern-summer-2027-4648209007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
+| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Electrical Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-electrical-engineering-intern-summer-2027-5273149007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
+| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Autonomy Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-autonomy-intern-summer-2027-5273167007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-ogilvy-creative-summer-internship-4757364005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, United States | On-site |  | Nov 21 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-ogilvy-creative-summer-internship-4757353005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York | On-site |  | Nov 21 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[2027 The Ogilvy Group General Summer Internship](https://interviewchamp.ai/jobs/ogilvy-2027-the-ogilvy-group-general-summer-internship-4757341005?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, United States | On-site |  | Nov 21 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Strategic Operations Intern](https://interviewchamp.ai/jobs/clera-strategic-operations-intern-2698b76b-078f-4531-a6e8-2d15f0e2e963?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York (Remote) | Remote |  | Nov 21 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founders Associate Intern](https://interviewchamp.ai/jobs/clera-founders-associate-intern-b4d66f3b-2471-4005-a1ab-1d3176d7f7a9?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site | $80k–$110k | Nov 21 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Operations Intern](https://interviewchamp.ai/jobs/clera-operations-intern-c9ae9435-2ca6-4222-a1de-7e20d44e974c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City (Remote) | Remote |  | Nov 21 |
@@ -176,13 +182,7 @@ Internships from employers' own career pages. **2,564 are live right now.** This
 | **[Lightmatter](https://lightmatter.com)** | **[Photonics Circuit Simulation Intern – Summer 2027](https://interviewchamp.ai/jobs/lightmatter-photonics-circuit-simulation-intern-summer-2027-5479849008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, CA | On-site |  | Nov 18 |
 | **[Truveta](https://truveta.com)** | **[Winter Software Engineering Intern](https://interviewchamp.ai/jobs/truveta-winter-software-engineering-intern-6249810004?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Seattle, WA | On-site |  | Nov 18 |
 | **[Orion Group](https://job-boards.greenhouse.io/oriongroup)** | **[CI Operations Intern - 2027](https://interviewchamp.ai/jobs/oriongroup-ci-operations-intern-2027-4730308006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boulder, CO | On-site |  | Nov 18 |
-| **[Axogen](https://www.axogeninc.com)** | **[Intern, New Product Development (R&amp;D)](https://interviewchamp.ai/jobs/axogen-intern-new-product-development-r-d-8853157002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Tampa, Florida, United States | On-site |  | Nov 18 |
-| **[Inspire Medical Systems Inc.](https://job-boards.greenhouse.io/inspiremedicalsystemsinc)** | **[Intern, Financial Planning and Analysis (Summer 2027)](https://interviewchamp.ai/jobs/inspiremedicalsystemsinc-intern-financial-planning-and-analysis-summer-2027-5485322008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Minneapolis, MN | On-site |  | Nov 18 |
-| **[Castelion Corporation](https://job-boards.greenhouse.io/castelioncorporation)** | **[Spring 2027 Engineering Internship](https://interviewchamp.ai/jobs/castelioncorporation-spring-2027-engineering-internship-4464192009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Rio Rancho, NM; Torrance, CA | On-site |  | Nov 18 |
-| **[Heritage Holding](https://jobs.ashbyhq.com/heritage-holding)** | **[2027 Spring Talent Acquisition Co-op](https://interviewchamp.ai/jobs/heritage-holding-2027-spring-talent-acquisition-co-op-1aceb5b1-c468-4777-9f71-4240278c65fa?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA | On-site |  | Nov 18 |
-| **[Strategic Mission Critical](https://job-boards.greenhouse.io/strategicmissioncritical)** | **[Virtual Design &amp; Construction (VDC) Internship](https://interviewchamp.ai/jobs/strategicmissioncritical-virtual-design-construction-vdc-internship-4512728009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Phoenix, AZ | On-site |  | Nov 18 |
-| **[Strategic Mission Critical](https://job-boards.greenhouse.io/strategicmissioncritical)** | **[Virtual Design &amp; Construction (VDC) Internship](https://interviewchamp.ai/jobs/strategicmissioncritical-virtual-design-construction-vdc-internship-4512681009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Clifton Park, NY | On-site |  | Nov 18 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-21 19:33 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-22 01:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
