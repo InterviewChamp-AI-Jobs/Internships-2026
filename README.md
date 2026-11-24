@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,602 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,603 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,602, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,603, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Internships from employers' own career pages. **2,602 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Fervo Energy](https://job-boards.greenhouse.io/fervoenergy)** | **[GIS Intern](https://interviewchamp.ai/jobs/fervoenergy-gis-intern-4512537009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Salt Lake City, Utah | On-site |  | Nov 24 |
+| **[Formlabs](https://formlabs.com)** | **[Campus Recruiting Intern (Winter/Spring 2027)](https://interviewchamp.ai/jobs/formlabs-campus-recruiting-intern-winter-spring-2027-8413030?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Somerville, MA | On-site |  | Nov 24 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Intern, Automotive Interior Design, Summer 2027](https://interviewchamp.ai/jobs/lucidmotors-intern-automotive-interior-design-summer-2027-5290844007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Newark, CA | On-site |  | Nov 24 |
 | **[Interstates](https://www.interstates.com)** | **[Supply Chain Data Intern — Spring or Summer Internship](https://interviewchamp.ai/jobs/interstates-supply-chain-data-intern-spring-or-summer-internship-4519827009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Sioux Falls, SD | On-site |  | Nov 24 |
 | **[Interstates](https://www.interstates.com)** | **[Supply Chain Data Intern — Spring or Summer Internship](https://interviewchamp.ai/jobs/interstates-supply-chain-data-intern-spring-or-summer-internship-4519818009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Sioux Center, IA | On-site |  | Nov 24 |
@@ -180,9 +182,7 @@ Internships from employers' own career pages. **2,602 are live right now.** This
 | **[Pheasants Forever](https://pheasantsforever.applytojob.com)** | **[Government Affairs Intern](https://interviewchamp.ai/jobs/pheasantsforever-government-affairs-intern-jnsym6uiwl?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Washington D.C. preferred, DC | On-site |  | Nov 20 |
 | **[Southern Poverty Law Center](https://job-boards.greenhouse.io/southernpovertylawcenter)** | **[Intern, IT Project Management (Summer 2027)](https://interviewchamp.ai/jobs/southernpovertylawcenter-intern-it-project-management-summer-2027-8955692002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Montgomery, AL; Atlanta, GA | On-site |  | Nov 19 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Total Rewards Intern Summer 2027](https://interviewchamp.ai/jobs/rocketlab-total-rewards-intern-summer-2027-8208976003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Long Beach, CA | On-site |  | Nov 19 |
-| **[Southern Poverty Law Center](https://job-boards.greenhouse.io/southernpovertylawcenter)** | **[Intern, Human Resources (Summer 2027)](https://interviewchamp.ai/jobs/southernpovertylawcenter-intern-human-resources-summer-2027-8955457002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Montgomery, Alabama; New Orleans, LA; Atlanta, GA; Miami, FL; Washington, D.C.; Jackson, MS | On-site |  | Nov 19 |
-| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Agentic AI](https://interviewchamp.ai/jobs/waymo-2027-summer-intern-phd-agentic-ai-8401116?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Mountain View, California, United States | On-site |  | Nov 19 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-24 02:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-24 13:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
