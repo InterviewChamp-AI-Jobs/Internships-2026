@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,630 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,627 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,630, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,627, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Internships from employers' own career pages. **2,630 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[LA Clippers](https://www.nba.com)** | **[2027 Business Operations Intern](https://interviewchamp.ai/jobs/laclippers-2027-business-operations-intern-4732385006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Inglewood, CA | On-site |  | Nov 27 |
+| **[LA Clippers](https://www.nba.com)** | **[2027 Business Operations Intern - Sustainability](https://interviewchamp.ai/jobs/laclippers-2027-business-operations-intern-sustainability-4732392006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Inglewood, CA | On-site |  | Nov 27 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Italian Sales Intern](https://interviewchamp.ai/jobs/clera-italian-sales-intern-977262c5-32f1-4140-96d0-c99af8bd7bf6?utm_source=github&utm_medium=referral&utm_campaign=internships)** | remote | Remote |  | Nov 27 |
 | **[ATOMS Careers page](https://job-boards.greenhouse.io/cssmerge)** | **[Software Engineering Intern - 2027 Summer Term](https://interviewchamp.ai/jobs/cssmerge-software-engineering-intern-2027-summer-term-8963704002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Nov 26 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Product Engineer Intern, Mobile](https://interviewchamp.ai/jobs/clera-product-engineer-intern-mobile-dc18d62b-baf7-4cc1-8bda-7f8985fe10de?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States | On-site |  | Nov 26 |
 | **[Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe)** | **[Marketing Intern - Summer 2027](https://interviewchamp.ai/jobs/vital-lyfe-marketing-intern-summer-2027-a3cb1fe6-d67b-4742-a7c1-a416eb021003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles - Greater Area | On-site |  | Nov 26 |
@@ -104,7 +107,6 @@ Internships from employers' own career pages. **2,630 are live right now.** This
 | **[Green Tree School And Services](https://jobs.ashbyhq.com/Green-Tree-School-and-Services)** | **[School Psychology Intern](https://interviewchamp.ai/jobs/green-tree-school-and-services-school-psychology-intern-31d6c613-ab6b-4a24-8ec3-2a7929f50e08?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Philadelphia, PA | On-site |  | Nov 24 |
 | **[Hawthorne Machinery Co.](https://job-boards.greenhouse.io/hawthornemachineryco)** | **[Technical Services Support Admin Intern](https://interviewchamp.ai/jobs/hawthornemachineryco-technical-services-support-admin-intern-5486876008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Waipahu, Hawaii | On-site |  | Nov 24 |
 | **[Dozee](https://dozee.io)** | **[Intern - Clinical Research](https://interviewchamp.ai/jobs/dozee-intern-clinical-research-0e4a7863-9405-4e89-a961-acc4a94cf7bc?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lake Jackson, Texas | Hybrid |  | Nov 24 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founder Associate Intern](https://interviewchamp.ai/jobs/clera-founder-associate-intern-8ec2bb04-a143-4478-b696-a2c891c88b82?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco | On-site |  | Nov 24 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[2027 Summer Intern - Mechanical Engineering - 6436](https://interviewchamp.ai/jobs/shield-2027-summer-intern-mechanical-engineering-6436-d5931c9e-b020-46f1-9344-9ea17768fad8?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX, US | On-site |  | Nov 24 |
 | **[Sierra Club](https://jobs.lever.co/sierraclub)** | **[Legislative Intern](https://interviewchamp.ai/jobs/sierraclub-legislative-intern-d5f2334c-a872-4b26-9c6b-9bc6b313d352?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Lansing, MI | On-site |  | Nov 24 |
 | **[Oscar Health](https://oscarhealth.com)** | **[Mergers and Acquisitions Intern](https://interviewchamp.ai/jobs/oscar-mergers-and-acquisitions-intern-8414269?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, New York, United States | On-site |  | Nov 24 |
@@ -180,9 +182,7 @@ Internships from employers' own career pages. **2,630 are live right now.** This
 | **[Cell Signaling Technology](https://job-boards.greenhouse.io/cellsignalingtechnology79)** | **[Business Development Internship](https://interviewchamp.ai/jobs/cellsignalingtechnology79-business-development-internship-4731461006?utm_source=github&utm_medium=referral&utm_campaign=internships)** | DANVERS, MA | On-site |  | Nov 22 |
 | **[CannonDesign](http://www.cannondesign.com)** | **[Design Student Intern](https://interviewchamp.ai/jobs/cannondesign-design-student-intern-8957894002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, IL | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Firmware/Embedded Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-firmware-embedded-software-engineer-intern-summer-2027-5278981007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 22 |
-| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Mechanical Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-mechanical-engineer-intern-summer-2027-4648209007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
-| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Electrical Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-electrical-engineering-intern-summer-2027-5273149007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-27 12:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-27 23:35 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
