@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,636 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,630 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,636, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,630, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -44,7 +44,6 @@ Internships from employers' own career pages. **2,636 are live right now.** This
 | **[QuEra Computing, Inc.](https://job-boards.greenhouse.io/queracomputinginc)** | **[Internship – Technical Product Management](https://interviewchamp.ai/jobs/queracomputinginc-internship-technical-product-management-5495037008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA, USA | On-site |  | Nov 25 |
 | **[QuEra Computing, Inc.](https://job-boards.greenhouse.io/queracomputinginc)** | **[Internship – Data Management](https://interviewchamp.ai/jobs/queracomputinginc-internship-data-management-5495029008?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Boston, MA, USA | On-site |  | Nov 25 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[2027 Summer Intern - X-BAT Engineering Avionics - 5923](https://interviewchamp.ai/jobs/shield-2027-summer-intern-x-bat-engineering-avionics-5923-aa894b5e-8101-4980-a716-785ce34e1286?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Dallas, TX, US | On-site |  | Nov 25 |
-| **[CodeRabbit](https://coderabbit.ai)** | **[Software Engineer - Intern](https://interviewchamp.ai/jobs/coderabbit-software-engineer-intern-c30ab34a-98f3-4c41-b4ba-179bdbab32c9?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco (Remote) | Remote |  | Nov 25 |
 | **[Pacific Fusion](https://job-boards.greenhouse.io/pacificfusion)** | **[Summer 2027 Positioning Systems Internship](https://interviewchamp.ai/jobs/pacificfusion-summer-2027-positioning-systems-internship-4522155009?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Leandro, CA | On-site |  | Nov 25 |
 | **[IXL Learning](https://ixl.com)** | **[Software Engineer, Intern](https://interviewchamp.ai/jobs/ixllearning-software-engineer-intern-8963039002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Mateo, CA | On-site |  | Nov 25 |
 | **[Duetti](https://jobs.lever.co/duetti)** | **[2027 Summer Internship - Frontline Marketing Intern](https://interviewchamp.ai/jobs/duetti-2027-summer-internship-frontline-marketing-intern-aa8990f5-37e5-4ccf-bbfa-e18427c881b8?utm_source=github&utm_medium=referral&utm_campaign=internships)** | New York, NY | Hybrid | $48k–$57.6k | Nov 25 |
@@ -182,7 +181,8 @@ Internships from employers' own career pages. **2,636 are live right now.** This
 | **[CannonDesign](http://www.cannondesign.com)** | **[Design Student Intern](https://interviewchamp.ai/jobs/cannondesign-design-student-intern-8957894002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, IL | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Firmware/Embedded Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-firmware-embedded-software-engineer-intern-summer-2027-5278981007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Mechanical Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-mechanical-engineer-intern-summer-2027-4648209007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
+| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Electrical Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-electrical-engineering-intern-summer-2027-5273149007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-27 01:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-27 12:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
