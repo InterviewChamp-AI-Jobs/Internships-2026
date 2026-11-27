@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=internships"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Internships from employers' own career pages. **2,641 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Internships from employers' own career pages. **2,636 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,641, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
+👉 **See all 2,636, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=internships)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Internships from employers' own career pages. **2,641 are live right now.** This
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ATOMS Careers page](https://job-boards.greenhouse.io/cssmerge)** | **[Software Engineering Intern - 2027 Summer Term](https://interviewchamp.ai/jobs/cssmerge-software-engineering-intern-2027-summer-term-8963704002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | San Francisco, CA | On-site |  | Nov 26 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Product Engineer Intern, Mobile](https://interviewchamp.ai/jobs/clera-product-engineer-intern-mobile-dc18d62b-baf7-4cc1-8bda-7f8985fe10de?utm_source=github&utm_medium=referral&utm_campaign=internships)** | United States | On-site |  | Nov 26 |
 | **[Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe)** | **[Marketing Intern - Summer 2027](https://interviewchamp.ai/jobs/vital-lyfe-marketing-intern-summer-2027-a3cb1fe6-d67b-4742-a7c1-a416eb021003?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles - Greater Area | On-site |  | Nov 26 |
 | **[Vital Lyfe](https://jobs.ashbyhq.com/vital-lyfe)** | **[Supply Chain Engineer Internship - Summer 2027](https://interviewchamp.ai/jobs/vital-lyfe-supply-chain-engineer-internship-summer-2027-0a604bb1-8230-45fa-8f65-5101e5774a8c?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Los Angeles - Greater Area | On-site |  | Nov 26 |
@@ -181,8 +182,7 @@ Internships from employers' own career pages. **2,641 are live right now.** This
 | **[CannonDesign](http://www.cannondesign.com)** | **[Design Student Intern](https://interviewchamp.ai/jobs/cannondesign-design-student-intern-8957894002?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Chicago, IL | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Firmware/Embedded Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-firmware-embedded-software-engineer-intern-summer-2027-5278981007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 22 |
 | **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Mechanical Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-mechanical-engineer-intern-summer-2027-4648209007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
-| **[Neros Technologies](https://job-boards.greenhouse.io/nerostechnologies)** | **[Electrical Engineering Intern - Summer 2027](https://interviewchamp.ai/jobs/nerostechnologies-electrical-engineering-intern-summer-2027-5273149007?utm_source=github&utm_medium=referral&utm_campaign=internships)** | Torrance, California, United States | On-site |  | Nov 21 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026)
 
-Updated 2026-11-26 17:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-27 01:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
